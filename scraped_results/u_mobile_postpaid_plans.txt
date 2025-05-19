@@ -1,0 +1,918 @@
+U Postpaid Plan | Mobile Plans | U Mobile
+{
+				"layout": "fixed-width-carousel",
+				"autoRotationDuration": 2,
+				"useNumberPagination": false
+			}
+{
+					"bannerTitle": "Postpaid U Family 128 Plan Banner U Mobile",
+					"bannerType": "normal"
+				}
+Family 1st
+The best family plan to share 1,000GB Data​
+& Free Global Roaming among 4x Mobile Lines
+{
+					"bannerTitle": "Postpaid U Postpaid Plans Banner U Mobile",
+					"bannerType": "normal"
+				}
+Unbeatable
+Postpaid Plan
+Enjoy 1000GB of 5G data across up to 6 share lines,
+free global roaming, and 0% instalments on 5G devices
+Unbeatable
+Postpaid Plan
+Enjoy 1000GB of 5G data across up to 6 share lines, free global roaming, and 0% instalments on 5G devices
+{
+				"componentId": "G3E8Nwk"
+			}
+{
+					"activeTab": "family-plans",
+					"activeTabCta": "Family Plan"
+				}
+Postpaid Plans
+Family Plan
+Unbeatable 5G Experience With Our U Postpaid Plans
+Experience Malaysia's No.1 5G Network​
+Enjoy Seamless Global Connectivity​
+Easy Ownership of the Best 5G Devices​
+{
+            "defaultSelectedTile": "u-postpaid-38",
+            "planCardTopDesign": "no-line",
+            "planDetailListData": [
+  {
+    "webPService": {
+      "minHeight": 0,
+      "minWidth": 0,
+      "compressionQuality": 0.0
+    },
+    "planContainer": 1,
+    "planDetailsPagePath": "/content/u-mobile/en/personal/admin/mobile-plans-cards/postpaid/u-postpaid/u-postpaid-38",
+    "anchorName": "u-postpaid-38",
+    "ctaType": "right",
+    "planStickerText": "Upgraded!",
+    "planStickerStyle": "variant-2",
+    "planCardColor": "blue",
+    "masterHeadImg": "/content/dam/u-mobile/personal/shared-masthead/postpaid-plan-masthead/UPostpaid-38.svg",
+    "currentPrice": "38",
+    "currentPriceSuffix": "/month",
+    "rightCtaText": "Buy Now",
+    "rightCtaPath": "https://shop.u.com.my/um/offer-detail/U_Postpaid_38?categorys=Plans_Only&brand=Postpaid&productId=783&default_service_type=new_u_mobile_line&default_sim_type=esim",
+    "leftCtaText": "Switch Now",
+    "leftCtaPath": "https://shop.u.com.my/um/offer-detail/U_Postpaid_38?categorys=Plans_Only&brand=Postpaid&productId=783&default_service_type=switch_to_u&default_sim_type=esim",
+    "planID": "u-postpaid-38",
+    "planShortName": "U Postpaid 38",
+    "fbbPlan": "N",
+    "planValueTab": [
+      {
+        "leftColText": "<p style=\"text-align: center;\"><b><span class=\"diagonal-strikethru\"><span class=\"body-text-2\">60GB</span></span></b></p>\r\n",
+        "useLeftColumnOnly": "Y"
+      },
+      {
+        "leftColText": "<p><b>120GB</b></p>\r\n",
+        "useLeftColumnOnly": "Y"
+      },
+      {
+        "leftColText": "<p style=\"text-align: center;\">5G/4G Data</p>\r\n",
+        "useLeftColumnOnly": "Y"
+      }
+    ],
+    "keyFeatures": [
+      {
+        "keyFeatureDesc": "<p>Ultra Hotspot 5G<br />\r\n(Share from 120GB Data)​</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Unlimited Local Calls​</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      }
+    ],
+    "expandPlanCard": "false",
+    "hasPage": true
+  },
+  {
+    "webPService": {
+      "minHeight": 0,
+      "minWidth": 0,
+      "compressionQuality": 0.0
+    },
+    "planContainer": 2,
+    "planDetailsPagePath": "/content/u-mobile/en/personal/admin/mobile-plans-cards/postpaid/u-postpaid/u-postpaid-68",
+    "anchorName": "u-postpaid-68",
+    "ctaType": "right",
+    "planStickerText": "Upgraded!",
+    "planStickerStyle": "variant-2",
+    "planCardColor": "red",
+    "masterHeadImg": "/content/dam/u-mobile/personal/shared-masthead/postpaid-plan-masthead/UPostpaid-68.svg",
+    "currentPrice": "68",
+    "currentPriceSuffix": "/month",
+    "additionalDescription": "<p>Get a FREE 5G device, available only with our 36-month contract.</p>\r\n<p> </p>\r\n<p><b><u>U SaveMore</u></b></p>\r\n<p>Enjoy unbeatable savings on devices.</p>\r\n<p> </p>\r\n<p><b><u>U FamilyShare</u></b><br />\r\n</p>\r\n<p>Connect loved ones at only RM38/line for up to 2 U FamilyShare lines.</p>\r\n<p><a href=\"/content/u-mobile/en/personal/mobile-plans/postpaid/u-familyshare.html\"><span class=\"body-text-2\">Sign up now!</span></a></p>\r\n",
+    "rightCtaText": "Buy Now",
+    "rightCtaPath": "https://shop.u.com.my/um/offer-detail/U_Postpaid_68?categorys=Plans_Only&brand=Postpaid&productId=1121&default_service_type=new_u_mobile_line&default_sim_type=esim",
+    "leftCtaText": "Switch Now",
+    "leftCtaPath": "https://shop.u.com.my/um/offer-detail/U_Postpaid_68?categorys=Plans_Only&brand=Postpaid&productId=1121&default_service_type=switch_to_u&default_sim_type=esim",
+    "planID": "u-postpaid-68",
+    "planShortName": "U Postpaid 68",
+    "fbbPlan": "N",
+    "planValueTab": [
+      {
+        "leftColText": "<p style=\"text-align: center;\"><b><span class=\"body-text-2\"><span class=\"diagonal-strikethru\">300GB</span></span></b></p>\r\n",
+        "useLeftColumnOnly": "Y"
+      },
+      {
+        "leftColText": "<p style=\"text-align: center;\"><b>500GB</b></p>\r\n",
+        "useLeftColumnOnly": "Y"
+      },
+      {
+        "leftColText": "<p style=\"text-align: center;\">5G/4G Data</p>\r\n",
+        "useLeftColumnOnly": "Y"
+      }
+    ],
+    "keyFeatures": [
+      {
+        "keyFeatureDesc": "<p>Ultra Hotspot 5G<br />\r\n(Share from 500GB Data)​</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Unlimited Local Calls​</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Free International Roaming in <a href=\"/content/u-mobile/en/personal/mobile-plans/roam-travel/roaming.html#u685groamingcountries\">SG, IDN &amp; TH</a></p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Free Incoming Calls From Abroad in <a href=\"/content/u-mobile/en/personal/mobile-plans/roam-travel/roaming.html#u685groamingcountries\">SG, IDN &amp; TH</a></p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Up to 2 U FamilyShare lines</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      }
+    ],
+    "planFeatureTitle": "More Plan Features",
+    "planFeatureDesc": "<p><u><b>U FamilyShare</b></u><br />\r\nConnect with your loved ones at only RM38/line with up to 2 U FamilyShare lines.<br />\r\n<a href=\"/content/u-mobile/en/personal/mobile-plans/postpaid/family-lines.html\">Find out more!</a></p>\r\n<p> </p>\r\n<p><u><b>U SaveMore &amp; U PayLater</b></u><br />\r\nEnjoy unbeatable savings on devices.</p>\r\n",
+    "expandPlanCard": "false",
+    "hasPage": true
+  },
+  {
+    "webPService": {
+      "minHeight": 0,
+      "minWidth": 0,
+      "compressionQuality": 0.0
+    },
+    "planContainer": 3,
+    "planDetailsPagePath": "/content/u-mobile/en/personal/admin/mobile-plans-cards/postpaid/u-postpaid/u-postpaid-98",
+    "anchorName": "u-postpaid-98",
+    "ctaType": "right",
+    "planStickerStyle": "variant-2",
+    "planCardColor": "turquoise",
+    "masterHeadImg": "/content/dam/u-mobile/personal/shared-masthead/postpaid-plan-masthead/UPostpaid-98.svg",
+    "currentPrice": "98",
+    "currentPriceSuffix": "/month",
+    "additionalDescription": "<p><b><u>U PayLater</u></b></p>\r\n<p>Own the latest 5G devices!</p>\r\n<p>Enjoy payment flexibility with 0% instalment today.</p>\r\n<p> </p>\r\n<p><b><u>U FamilyShare</u></b></p>\r\n<p>Connect loved ones at only RM38/line for up to 6 U FamilyShare lines.</p>\r\n<p><a href=\"/content/u-mobile/en/personal/mobile-plans/postpaid/u-familyshare.html\"><span class=\"body-text-2\">Sign up now!</span></a></p>\r\n",
+    "rightCtaText": "Buy Now",
+    "rightCtaPath": "https://shop.u.com.my/um/offer-detail/U_Postpaid_98?categorys=Plans_Only&brand=Postpaid&productId=781&default_service_type=new_u_mobile_line&default_sim_type=esim",
+    "leftCtaText": "Switch Now",
+    "leftCtaPath": "https://shop.u.com.my/um/offer-detail/U_Postpaid_98?categorys=Plans_Only&brand=Postpaid&productId=781&default_service_type=switch_to_u&default_sim_type=esim",
+    "planID": "u-postpaid-98",
+    "planShortName": "U Postpaid 98",
+    "fbbPlan": "N",
+    "planValueTab": [
+      {
+        "leftColText": "<p style=\"text-align: center;\"><b>1,000GB</b></p>\r\n",
+        "useLeftColumnOnly": "Y"
+      },
+      {
+        "leftColText": "<p style=\"text-align: center;\">5G/4G Data</p>\r\n",
+        "useLeftColumnOnly": "Y"
+      }
+    ],
+    "keyFeatures": [
+      {
+        "keyFeatureDesc": "<p>Ultra Hotspot 5G<br />\r\n(Share from 1,000GB Data)​</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Unlimited Local Calls​</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Free 15GB Global Roaming in</p>\r\n<p><a href=\"/content/u-mobile/en/personal/mobile-plans/roam-travel/roaming.html#5groamingcountries\">Over 60 Destinations</a></p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Free Incoming Calls From Abroad in <a href=\"/content/u-mobile/en/personal/mobile-plans/roam-travel/roaming.html#5groamingcountries\">Over 60 Destinations</a></p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Up to 6 U FamilyShare lines</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      }
+    ],
+    "planFeatureTitle": "More Plan Features",
+    "planFeatureDesc": "<p><u><b>U FamilyShare</b></u><br />\r\nConnect with your loved ones at only RM38/line with up to 6 U FamilyShare lines.<br />\r\n<a href=\"/content/u-mobile/en/personal/mobile-plans/postpaid/family-lines.html\">Find out more!</a></p>\r\n<p> </p>\r\n<p><u><b>U SaveMore &amp; U PayLater</b></u><br />\r\nEnjoy unbeatable savings on devices.</p>\r\n",
+    "expandPlanCard": "false",
+    "hasPage": true
+  }
+]
+            }
+For
+U Postpaid 68
+&
+U Postpaid 98
+users, activate your U FamilyShare line anytime via the
+MyUMobile App
+.
+Latest 5G Devices
+See all devices
+{
+				"fullWidth": false,
+				"numberOfTiles": 23,
+				"componentId": "Tj3nX2g",
+				"crossSellType": "transparent",
+				"hideTitle": "",
+				"vertical": "bottom",
+				"horizontal": "right"
+			}
+New
+Apple
+iPhone 16e
+from {{prefixRM(addCommaForCurrency(58))}}
+/month
+RRP {{prefixRM(addCommaForCurrency(2999))}}
+Learn More
+Buy Now
+New
+Apple
+iPhone 16 Pro Max
+from {{prefixRM(addCommaForCurrency(123))}}
+/month
+RRP {{prefixRM(addCommaForCurrency(5999))}}
+Learn More
+Buy Now
+New
+Apple
+iPhone 16 Pro
+from {{prefixRM(addCommaForCurrency(97))}}
+/month
+RRP {{prefixRM(addCommaForCurrency(4999))}}
+Learn More
+Buy Now
+New
+Apple
+iPhone 16 Plus
+from {{prefixRM(addCommaForCurrency(90))}}
+/month
+RRP {{prefixRM(addCommaForCurrency(4499))}}
+Learn More
+Buy Now
+New
+Apple
+iPhone 16
+from {{prefixRM(addCommaForCurrency(77))}}
+/month
+RRP {{prefixRM(addCommaForCurrency(3999))}}
+Learn More
+Buy Now
+New
+OPPO
+A5 5G
+from {{prefixRM(addCommaForCurrency(0))}}
+RRP {{prefixRM(addCommaForCurrency(1099))}}
+Learn More
+Buy Now
+New
+vivo
+V50 Lite 5G
+from {{prefixRM(addCommaForCurrency(0))}}
+RRP {{prefixRM(addCommaForCurrency(1299))}}
+Learn More
+Buy Now
+New
+HONOR
+400 Lite 5G
+from {{prefixRM(addCommaForCurrency(0))}}
+RRP {{prefixRM(addCommaForCurrency(1299))}}
+Learn More
+Buy Now
+New
+Google
+Pixel 9a 5G
+from {{prefixRM(addCommaForCurrency(34))}}
+/month
+RRP {{prefixRM(addCommaForCurrency(2699))}}
+Learn More
+Buy Now
+New
+realme
+14 Pro 5G
+from {{prefixRM(addCommaForCurrency(0))}}
+RRP {{prefixRM(addCommaForCurrency(1799))}}
+Learn More
+Buy Now
+New
+realme
+14 5G
+from {{prefixRM(addCommaForCurrency(0))}}
+RRP {{prefixRM(addCommaForCurrency(1199))}}
+Learn More
+Buy Now
+New
+ZTE
+nubia Focus 2 5G
+from {{prefixRM(addCommaForCurrency(0))}}
+RRP {{prefixRM(addCommaForCurrency(999))}}
+Learn More
+Buy Now
+New
+Nothing
+Phone (3a) 5G
+from {{prefixRM(addCommaForCurrency(0))}}
+RRP {{prefixRM(addCommaForCurrency(1699))}}
+Learn More
+Buy Now
+New
+HUAWEI
+Mate XT
+from {{prefixRM(addCommaForCurrency(529))}}
+/month
+RRP {{prefixRM(addCommaForCurrency(14999))}}
+Learn More
+Buy Now
+New
+vivo
+V50 5G
+from {{prefixRM(addCommaForCurrency(0))}}
+RRP {{prefixRM(addCommaForCurrency(2399))}}
+Learn More
+Buy Now
+New
+Samsung
+Galaxy A06 5G
+from {{prefixRM(addCommaForCurrency(0))}}
+RRP {{prefixRM(addCommaForCurrency(699))}}
+Learn More
+Buy Now
+New
+Samsung
+Galaxy A26 5G
+from {{prefixRM(addCommaForCurrency(0))}}
+RRP {{prefixRM(addCommaForCurrency(1399))}}
+Learn More
+Buy Now
+New
+Samsung
+Galaxy A36 5G
+from {{prefixRM(addCommaForCurrency(0))}}
+RRP {{prefixRM(addCommaForCurrency(1699))}}
+Learn More
+Buy Now
+New
+OPPO
+Find N5
+from {{prefixRM(addCommaForCurrency(289))}}
+/month
+RRP {{prefixRM(addCommaForCurrency(7999))}}
+Learn More
+Buy Now
+New
+Samsung
+Galaxy S25 Ultra 5G
+from {{prefixRM(addCommaForCurrency(177))}}
+/month
+RRP {{prefixRM(addCommaForCurrency(5999))}}
+Learn More
+Buy Now
+New
+Samsung
+Galaxy S25+ 5G
+from {{prefixRM(addCommaForCurrency(139))}}
+/month
+RRP {{prefixRM(addCommaForCurrency(4999))}}
+Learn More
+Buy Now
+New
+Samsung
+Galaxy S25 5G
+from {{prefixRM(addCommaForCurrency(83))}}
+/month
+RRP {{prefixRM(addCommaForCurrency(3999))}}
+Learn More
+Buy Now
+New
+OPPO
+Reno13 5G
+from {{prefixRM(addCommaForCurrency(0))}}
+RRP {{prefixRM(addCommaForCurrency(2599))}}
+Learn More
+Buy Now
+The Best Family Plan in Town with U Family 128
+5G Data and Free Global Roaming, shareable between 4 mobile lines.
+Experience Malaysia's No.1 5G Network
+Enjoy Seamless Global Connectivity
+Easy Ownership of the Best 5G Devices
+Best Value for Family
+{
+            "defaultSelectedTile": "",
+            "planCardTopDesign": "no-line",
+            "planDetailListData": [
+  {
+    "webPService": {
+      "minHeight": 0,
+      "minWidth": 0,
+      "compressionQuality": 0.0
+    },
+    "planContainer": 1,
+    "planDetailsPagePath": "/content/u-mobile/en/personal/admin/mobile-plans-cards/postpaid/u-postpaid/u-family-128",
+    "anchorName": "u-family-128",
+    "ctaType": "right",
+    "planStickerText": "New",
+    "planStickerStyle": "variant-2",
+    "planCardColor": "blue",
+    "masterHeadImg": "/content/dam/u-mobile/personal/shared-masthead/postpaid-plan-masthead/UPostpaid-38.svg",
+    "currentPrice": "128",
+    "currentPriceSuffix": "/month",
+    "rightCtaText": "Buy Now",
+    "rightCtaPath": "https://shop.u.com.my/um/offer-detail/U_Family_128?categorys=Plans_Only&brand=Postpaid&productId=1881&default_service_type=new_u_mobile_line&default_sim_type=esim",
+    "leftCtaText": "Switch Now",
+    "leftCtaPath": "https://shop.u.com.my/um/offer-detail/U_Family_128?categorys=Plans_Only&brand=Postpaid&productId=1881&default_service_type=switch_to_u&default_sim_type=esim",
+    "planID": "u-family-128",
+    "planShortName": "U Family 128",
+    "fbbPlan": "N",
+    "planValueTab": [
+      {
+        "leftColText": "<p style=\"text-align: center;\"><b>4 Mobile Lines</b></p>\r\n",
+        "useLeftColumnOnly": "N"
+      }
+    ],
+    "keyFeatures": [
+      {
+        "keyFeatureDesc": "<p style=\"text-align: left;\"><b><span class=\"h6\">Shareable for All Lines</span></b></p>\r\n",
+        "keyFeatureIcon": "customised",
+        "keyFeatureIconPath": "/content/dam/u-mobile/personal/mobile-plans/general/check-mark-white.svg"
+      },
+      {
+        "keyFeatureDesc": "<p>1,000GB 5G/4G Data</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Ultra Hotspot 5G<br />\r\n(Share from 1,000GB data)</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Free 15GB Global Roaming in <a href=\"/content/u-mobile/en/personal/mobile-plans/roam-travel/roaming.html#5groamingcountries\">Over 60 Destinations</a></p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Free Incoming Calls From Abroad in <a href=\"/content/u-mobile/en/personal/mobile-plans/roam-travel/roaming.html#5groamingcountries\">Over&nbsp;60 Destinations</a><br>\r\n</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Unlimited Local Calls</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p> </p>\r\n<p><b>Benefit for Each Individual Line</b></p>\r\n",
+        "keyFeatureIcon": "customised",
+        "keyFeatureIconPath": "/content/dam/u-mobile/personal/mobile-plans/general/check-mark-white.svg"
+      },
+      {
+        "keyFeatureDesc": "<p>Flexible Mobile Line Activation<br>\r\n</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      }
+    ],
+    "planFeatureTitle": "More Plan Features",
+    "planFeatureDesc": "<p><u><b>U Family Share</b></u><br />\r\nGet up to additional 3 U Family Share lines at RM38/line for your loved ones​.<br />\r\n<a href=\"/content/u-mobile/en/personal/mobile-plans/postpaid/family-lines.html\">Find out more!</a></p>\r\n<p> </p>\r\n<p>Free 5G phones worth up to RM2,599. </p>\r\n<p><a href=\"https://www.u.com.my/en/personal/devices?t=free-u-family-phones\">Find out more!</a></p>\r\n",
+    "expandPlanCard": "false",
+    "hasPage": true
+  }
+]
+            }
+You may activate your share lines through
+MyUMobile App
+or at any
+U Mobile Store
+at your convenience.
+Get a Free 5G Phone with U Family 128​
+See all devices
+{
+				"fullWidth": false,
+				"numberOfTiles": 4,
+				"componentId": "Ba_epm0Q",
+				"crossSellType": "transparent",
+				"hideTitle": "",
+				"vertical": "bottom",
+				"horizontal": "right"
+			}
+New
+OPPO
+Reno13 5G
+from {{prefixRM(addCommaForCurrency(0))}}
+RRP {{prefixRM(addCommaForCurrency(2599))}}
+Learn more
+Buy Now
+New
+vivo
+V50 5G
+from {{prefixRM(addCommaForCurrency(0))}}
+RRP {{prefixRM(addCommaForCurrency(2399))}}
+Learn more
+Buy Now
+HONOR
+X9c 5G
+from {{prefixRM(addCommaForCurrency(0))}}
+RRP {{prefixRM(addCommaForCurrency(1699))}}
+Learn more
+Buy Now
+New
+Samsung
+Galaxy A36 5G
+from {{prefixRM(addCommaForCurrency(0))}}
+RRP {{prefixRM(addCommaForCurrency(1699))}}
+Learn more
+Buy Now
+More Services
+{
+				"fullWidth": false,
+				"numberOfTiles": 3,
+				"componentId": "UlhIN7Q",
+				"crossSellType": "promotional",
+				"hideTitle": "",
+				"vertical": "bottom",
+				"horizontal": "right"
+			}
+Roaming
+Enjoy free Unlimited High-Speed Data Roaming on U Mobile Prepaid & Postpaid plans. Now you can stay connected when travelling the world! Learn more now.
+Learn more
+Wireless
+Enjoy fibre-like speeds with U Home 5G! This wireless broadband comes with unlimited internet plans that include free Wi-Fi 6 5G router or Samsung TV. Get now!
+Learn more
+Fibre
+Elevate your home life with a reliable 5G broadband for unlimited ultra-fast internet connectivity. Get the U Home Fibre plan at only RM79/month today.
+Learn more
+Roaming
+Enjoy free Unlimited High-Speed Data Roaming on U Mobile Prepaid & Postpaid plans. Now you can stay connected when travelling the world! Learn more now.
+Learn more
+Wireless
+Enjoy fibre-like speeds with U Home 5G! This wireless broadband comes with unlimited internet plans that include free Wi-Fi 6 5G router or Samsung TV. Get now!
+Learn more
+Fibre
+Elevate your home life with a reliable 5G broadband for unlimited ultra-fast internet connectivity. Get the U Home Fibre plan at only RM79/month today.
+Learn more
+Switch to U
+Enjoy more awesome perks and rebates when you Switch to U!
+Learn More
+Get MyUMobile App Now!
+Enjoy a better, faster and safer experience today!
+Learn more
+Learn More
+Frequently Asked Questions
+{
+				"componentId": "dfY9bw4"
+			}
+U Family 128
+U Postpaid 38, 68, 98
+Ultra Hotspot 5G
+{
+				"dropdownFaqProperties": [
+  {
+    "title": "Postpaid",
+    "value": "postpaid",
+    "url": "/content/u-mobile/en/personal/mobile-plans/postpaid.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Postpaid Plans",
+        "value": "postpaid-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/postpaid-plans.html"
+      },
+      {
+        "title": "Be Unbeatable | U Mobile",
+        "value": "the-unbeatables",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/the-unbeatables.html"
+      },
+      {
+        "title": "Family Lines",
+        "value": "family-lines",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/family-lines.html"
+      },
+      {
+        "title": "Family Plan",
+        "value": "family-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/family-plans.html"
+      }
+    ]
+  },
+  {
+    "title": "Prepaid",
+    "value": "prepaid",
+    "url": "/content/u-mobile/en/personal/mobile-plans/prepaid.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Indonesia",
+        "value": "indonesia",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/indonesia.html"
+      },
+      {
+        "title": "Bangladesh",
+        "value": "bangladesh",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/bangladesh.html"
+      },
+      {
+        "title": "Data Plans",
+        "value": "data-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/data-plans.html"
+      },
+      {
+        "title": "Add-Ons",
+        "value": "add-ons",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/add-ons.html"
+      }
+    ]
+  },
+  {
+    "title": "Switch To U ",
+    "value": "switch-to-u",
+    "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "iOS",
+        "value": "ios",
+        "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u/ios.html"
+      },
+      {
+        "title": "Android",
+        "value": "android",
+        "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u/android.html"
+      }
+    ]
+  },
+  {
+    "title": "U Borneo Plan",
+    "value": "borneo",
+    "url": "/content/u-mobile/en/personal/mobile-plans/borneo.html",
+    "isGroupLabel": true,
+    "childList": []
+  },
+  {
+    "title": "Roam & Travel",
+    "value": "roam-travel",
+    "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Travellers Plan",
+        "value": "travellers-plan",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/travellers-plan.html"
+      },
+      {
+        "title": "International Direct Dial (IDD)",
+        "value": "international-direct-dial",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/international-direct-dial.html"
+      },
+      {
+        "title": "Roaming",
+        "value": "roaming",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/roaming.html"
+      }
+    ]
+  }
+],
+				"dropdownDefault": "/content/u-mobile/en/personal/mobile-plans/postpaid/postpaid-plans.html",
+				"breadCrumbs": []
+			}
+More FAQs
+View T&C
+{
+				"dropdownFaqProperties": [
+  {
+    "title": "Postpaid",
+    "value": "postpaid",
+    "url": "/content/u-mobile/en/personal/mobile-plans/postpaid.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Postpaid Plans",
+        "value": "postpaid-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/postpaid-plans.html"
+      },
+      {
+        "title": "Be Unbeatable | U Mobile",
+        "value": "the-unbeatables",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/the-unbeatables.html"
+      },
+      {
+        "title": "Family Lines",
+        "value": "family-lines",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/family-lines.html"
+      },
+      {
+        "title": "Family Plan",
+        "value": "family-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/family-plans.html"
+      }
+    ]
+  },
+  {
+    "title": "Prepaid",
+    "value": "prepaid",
+    "url": "/content/u-mobile/en/personal/mobile-plans/prepaid.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Indonesia",
+        "value": "indonesia",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/indonesia.html"
+      },
+      {
+        "title": "Bangladesh",
+        "value": "bangladesh",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/bangladesh.html"
+      },
+      {
+        "title": "Data Plans",
+        "value": "data-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/data-plans.html"
+      },
+      {
+        "title": "Add-Ons",
+        "value": "add-ons",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/add-ons.html"
+      }
+    ]
+  },
+  {
+    "title": "Switch To U ",
+    "value": "switch-to-u",
+    "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "iOS",
+        "value": "ios",
+        "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u/ios.html"
+      },
+      {
+        "title": "Android",
+        "value": "android",
+        "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u/android.html"
+      }
+    ]
+  },
+  {
+    "title": "U Borneo Plan",
+    "value": "borneo",
+    "url": "/content/u-mobile/en/personal/mobile-plans/borneo.html",
+    "isGroupLabel": true,
+    "childList": []
+  },
+  {
+    "title": "Roam & Travel",
+    "value": "roam-travel",
+    "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Travellers Plan",
+        "value": "travellers-plan",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/travellers-plan.html"
+      },
+      {
+        "title": "International Direct Dial (IDD)",
+        "value": "international-direct-dial",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/international-direct-dial.html"
+      },
+      {
+        "title": "Roaming",
+        "value": "roaming",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/roaming.html"
+      }
+    ]
+  }
+],
+				"dropdownDefault": "/content/u-mobile/en/personal/mobile-plans/postpaid/postpaid-plans.html",
+				"breadCrumbs": []
+			}
+More FAQs
+View T&C
+{
+				"dropdownFaqProperties": [
+  {
+    "title": "Postpaid",
+    "value": "postpaid",
+    "url": "/content/u-mobile/en/personal/mobile-plans/postpaid.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Postpaid Plans",
+        "value": "postpaid-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/postpaid-plans.html"
+      },
+      {
+        "title": "Be Unbeatable | U Mobile",
+        "value": "the-unbeatables",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/the-unbeatables.html"
+      },
+      {
+        "title": "Family Lines",
+        "value": "family-lines",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/family-lines.html"
+      },
+      {
+        "title": "Family Plan",
+        "value": "family-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/family-plans.html"
+      }
+    ]
+  },
+  {
+    "title": "Prepaid",
+    "value": "prepaid",
+    "url": "/content/u-mobile/en/personal/mobile-plans/prepaid.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Indonesia",
+        "value": "indonesia",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/indonesia.html"
+      },
+      {
+        "title": "Bangladesh",
+        "value": "bangladesh",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/bangladesh.html"
+      },
+      {
+        "title": "Data Plans",
+        "value": "data-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/data-plans.html"
+      },
+      {
+        "title": "Add-Ons",
+        "value": "add-ons",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/add-ons.html"
+      }
+    ]
+  },
+  {
+    "title": "Switch To U ",
+    "value": "switch-to-u",
+    "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "iOS",
+        "value": "ios",
+        "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u/ios.html"
+      },
+      {
+        "title": "Android",
+        "value": "android",
+        "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u/android.html"
+      }
+    ]
+  },
+  {
+    "title": "U Borneo Plan",
+    "value": "borneo",
+    "url": "/content/u-mobile/en/personal/mobile-plans/borneo.html",
+    "isGroupLabel": true,
+    "childList": []
+  },
+  {
+    "title": "Roam & Travel",
+    "value": "roam-travel",
+    "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Travellers Plan",
+        "value": "travellers-plan",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/travellers-plan.html"
+      },
+      {
+        "title": "International Direct Dial (IDD)",
+        "value": "international-direct-dial",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/international-direct-dial.html"
+      },
+      {
+        "title": "Roaming",
+        "value": "roaming",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/roaming.html"
+      }
+    ]
+  }
+],
+				"dropdownDefault": "/content/u-mobile/en/personal/mobile-plans/postpaid/postpaid-plans.html",
+				"breadCrumbs": []
+			}
+More FAQs
+View T&C
+{
+					"siteTheme": "theme-personal"
+				}
+We use cookies to bring you the best experience on our site by tailoring the most relevant content for you. Click ‘Proceed’ to enjoy optimal performance. View our
+Privacy Notice
+to learn more.
+Proceed

@@ -14,7 +14,7 @@ This is a simple Python script that scrapes public telco websites (e.g. Maxis, C
 Install them using:
 
 ```bash
-pip install requests beautifulsoup4
+pip3 install requests beautifulsoup4
 ```
 
 ---
@@ -24,7 +24,7 @@ pip install requests beautifulsoup4
 1. Run the script:
 
 ```bash
-python telco_scraper.py
+python3 webscrap.py
 ```
 
 2. You’ll see a list of telco websites to scrape.

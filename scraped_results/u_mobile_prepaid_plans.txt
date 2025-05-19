@@ -1,0 +1,1328 @@
+Monthly Data Plans | Prepaid Data Package| U Mobile
+{
+				"layout": "fixed-width-carousel",
+				"autoRotationDuration": 3,
+				"useNumberPagination": false
+			}
+{
+					"bannerTitle": "Prepaid Plans Banner U Mobile",
+					"bannerType": "normal"
+				}
+The No.1 Unlimited
+Ultra-fast Prepaid
+{
+					"bannerTitle": "Prepaid U Prepaid Banner U Mobile",
+					"bannerType": "normal"
+				}
+Prepaid SIM Pack​​
+Enjoy Ultra-fast speeds, Unlimited Data &
+Calls, from as low as RM25/mth!​
+Buy Now
+The Best Unlimited Prepaid Plans with 5G Experience​
+Get full speed ahead with our best value plans. Starting from as low as RM25/month.
+No. 1 Best Value Unlimited Prepaid
+Unlimited Data & Calls
+Free Ultra-fast 5G Experience
+{
+				"componentId": "a1o6Xd24"
+			}
+{
+					"activeTab": "dataplans",
+					"activeTabCta": "Data Plans"
+				}
+Data Plans
+Add-Ons
+{
+            "defaultSelectedTile": "",
+            "planCardTopDesign": "no-line",
+            "planDetailListData": [
+  {
+    "webPService": {
+      "minHeight": 0,
+      "minWidth": 0,
+      "compressionQuality": 0.0
+    },
+    "planContainer": 1,
+    "planDetailsPagePath": "/content/u-mobile/en/personal/admin/mobile-plans-cards/prepaid/data-plans/u25",
+    "anchorName": "u25",
+    "ctaType": "right-left",
+    "planStickerText": "Best Value​",
+    "planStickerStyle": "variant-2",
+    "planCardColor": "orange",
+    "masterHeadImg": "/content/dam/u-mobile/personal/mobile-plans/prepaid/hub/plan-masthead/20240613/UPREPAID-25-265X42.svg",
+    "currentPrice": "25",
+    "currentPriceSuffix": "/month",
+    "additionalDescription": "<p><b>Ultra Speed<u><br />\r\n</u></b></p>\r\n<p><span class=\"body-text-3\">Uncapped 5G/4G speed (1 Hour/Day)</span></p>\r\n",
+    "rightCtaText": "Buy Now",
+    "rightCtaPath": "https://shop.u.com.my/um/offer-detail/Prepaid_SIM_Pack?category=Plans_Only&brand=Prepaid&productId=581&default_service_type=new_u_mobile_line&default_region=peninsular_malaysia&default_sim_type=physical_sim&default_collect_method=delivery&additional=206919",
+    "leftCtaText": "Buy in App",
+    "leftCtaPath": "https://m.u.my/gCcNtLWy8WhmcCbo7?utm_source=website",
+    "planValueTab": [
+      {
+        "leftColText": "<p><span class=\"body-text-2\">U Prepaid 25</span></p>\r\n",
+        "rightColText": "<p><b>Unlimited 12Mbps</b></p>\r\n",
+        "useLeftColumnOnly": "N"
+      },
+      {
+        "leftColText": "<p style=\"text-align: center;\"><span class=\"body-text-2\"><span class=\"diagonal-strikethru-black\">6Mbps</span></span></p>\r\n",
+        "useLeftColumnOnly": "N"
+      }
+    ],
+    "keyFeatures": [
+      {
+        "keyFeatureDesc": "<p>Unlimited Data* (FUP: 40GB)</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Unlimited Calls</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Free Unlimited 5G Weekends**​</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>  </p>\r\n",
+        "keyFeatureIcon": "customised",
+        "keyFeatureIconPath": "/content/dam/u-mobile/personal/mobile-plans/general/check-mark-white.svg"
+      }
+    ],
+    "expandPlanCard": "false",
+    "hasPage": true
+  },
+  {
+    "webPService": {
+      "minHeight": 0,
+      "minWidth": 0,
+      "compressionQuality": 0.0
+    },
+    "planContainer": 2,
+    "planDetailsPagePath": "/content/u-mobile/en/personal/admin/mobile-plans-cards/prepaid/data-plans/u35",
+    "anchorName": "u35",
+    "ctaType": "right-left",
+    "planStickerText": "Best Seller​",
+    "planStickerStyle": "variant-2",
+    "planCardColor": "orange",
+    "masterHeadImg": "/content/dam/u-mobile/personal/mobile-plans/prepaid/hub/plan-masthead/20240613/UPREPAID-35-265X42.svg",
+    "currentPrice": "35",
+    "currentPriceSuffix": "/month",
+    "additionalDescription": "<p><b>Unlimited 5G Weekends</b></p>\r\n<p><span class=\"body-text-3\">Uncapped 5G/4G speed on weekends</span></p>\r\n",
+    "rightCtaText": "Buy Now",
+    "rightCtaPath": "https://shop.u.com.my/um/offer-detail/Prepaid_SIM_Pack?category=Plans_Only&brand=Prepaid&productId=581&default_service_type=new_u_mobile_line&default_region=peninsular_malaysia&default_sim_type=physical_sim&default_collect_method=delivery&additional=206920",
+    "leftCtaText": "Buy in App",
+    "leftCtaPath": "https://m.u.my/6ywZMwDPiMSyuuETA?utm_source=website",
+    "planValueTab": [
+      {
+        "leftColText": "<p><span class=\"body-text-2\">U Prepaid 35</span></p>\r\n",
+        "rightColText": "<p><b>Unlimited 24Mbps</b></p>\r\n",
+        "useLeftColumnOnly": "N"
+      },
+      {
+        "leftColText": "<p style=\"text-align: center;\"><span class=\"body-text-2\"><span class=\"diagonal-strikethru-black\">12Mbps</span></span></p>\r\n",
+        "useLeftColumnOnly": "N"
+      }
+    ],
+    "keyFeatures": [
+      {
+        "keyFeatureDesc": "<p>Unlimited Data* (FUP: 200GB)</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Unlimited Calls</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>10GB Hotspot</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Free Unlimited 5G Weekends**</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      }
+    ],
+    "expandPlanCard": "false",
+    "hasPage": true
+  },
+  {
+    "webPService": {
+      "minHeight": 0,
+      "minWidth": 0,
+      "compressionQuality": 0.0
+    },
+    "planContainer": 3,
+    "planDetailsPagePath": "/content/u-mobile/en/personal/admin/mobile-plans-cards/prepaid/data-plans/u40",
+    "anchorName": "u40",
+    "ctaType": "right-left",
+    "planStickerText": "Unlimited Hotspot",
+    "planStickerStyle": "variant-2",
+    "planCardColor": "orange",
+    "masterHeadImg": "/content/dam/u-mobile/personal/mobile-plans/prepaid/hub/plan-masthead/20240613/UPREPAID-40-265X42.svg",
+    "currentPrice": "40",
+    "currentPriceSuffix": "/month",
+    "additionalDescription": "<p><b>Unlimited 5G Weekends</b></p>\r\n<p><span class=\"body-text-3\">Uncapped 5G/4G speed on weekends</span></p>\r\n",
+    "rightCtaText": "Buy Now",
+    "rightCtaPath": "https://shop.u.com.my/um/offer-detail/Prepaid_SIM_Pack?category=Plans_Only&brand=Prepaid&productId=581&default_service_type=new_u_mobile_line&default_region=peninsular_malaysia&default_sim_type=physical_sim&default_collect_method=delivery&additional=218618",
+    "leftCtaText": "Buy in App",
+    "leftCtaPath": "https://m.u.my/XdYovPnzCRpKN7pq8?utm_source=website",
+    "planValueTab": [
+      {
+        "leftColText": "<p><span class=\"body-text-2\">U Prepaid 40</span></p>\r\n",
+        "rightColText": "<p><b>Unlimited 48Mbps​</b></p>\r\n",
+        "useLeftColumnOnly": "N"
+      },
+      {
+        "leftColText": "<p style=\"text-align: center;\"><span class=\"body-text-2\"><span class=\"diagonal-strikethru-black\">12Mbps</span></span></p>\r\n",
+        "useLeftColumnOnly": "N"
+      }
+    ],
+    "keyFeatures": [
+      {
+        "keyFeatureDesc": "<p>Unlimited Data* (FUP: 200GB)</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Unlimited Calls</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>200GB Hotspot</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Free Unlimited 5G Weekends**</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      }
+    ],
+    "expandPlanCard": "false",
+    "hasPage": true
+  },
+  {
+    "webPService": {
+      "minHeight": 0,
+      "minWidth": 0,
+      "compressionQuality": 0.0
+    },
+    "planContainer": 4,
+    "planDetailsPagePath": "/content/u-mobile/en/personal/admin/mobile-plans-cards/prepaid/data-plans/u50",
+    "anchorName": "u50",
+    "ctaType": "right-left",
+    "planStickerText": "Ultra-fast Unlimited",
+    "planStickerStyle": "variant-2",
+    "planCardColor": "orange",
+    "masterHeadImg": "/content/dam/u-mobile/personal/mobile-plans/prepaid/hub/plan-masthead/20240613/UPREPAID-50-265X42.svg",
+    "currentPrice": "50",
+    "currentPriceSuffix": "/month",
+    "additionalDescription": "<p><b>Unlimited 5G Weekends</b></p>\r\n<p><span class=\"body-text-3\">Uncapped 5G/4G speed on weekends</span></p>\r\n",
+    "rightCtaText": "Buy Now",
+    "rightCtaPath": "https://shop.u.com.my/um/offer-detail/Prepaid_SIM_Pack?category=Plans_Only&brand=Prepaid&productId=581&default_service_type=new_u_mobile_line&default_region=peninsular_malaysia&default_sim_type=physical_sim&default_collect_method=delivery&additional=222416",
+    "leftCtaText": "Buy in App",
+    "leftCtaPath": "https://m.u.my/5LZiqj26DuumVytt5?utm_source=website",
+    "planValueTab": [
+      {
+        "leftColText": "<p><span class=\"body-text-2\">U Prepaid 50</span></p>\r\n",
+        "rightColText": "<p style=\"white-space: nowrap;\"><b>Unlimited 1000Mbps</b></p>\r\n",
+        "useLeftColumnOnly": "N"
+      },
+      {
+        "leftColText": "<p style=\"text-align: center;\"><span class=\"body-text-2\"><span class=\"diagonal-strikethru-black\">24Mbps</span></span></p>\r\n",
+        "useLeftColumnOnly": "N"
+      }
+    ],
+    "keyFeatures": [
+      {
+        "keyFeatureDesc": "<p>Unlimited Data* (FUP: 200GB)</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Unlimited Calls</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>200GB Hotspot</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Ultra-fast Data Every Day​</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      }
+    ],
+    "expandPlanCard": "false",
+    "hasPage": true
+  }
+]
+            }
+*
+Fair Usage Policy
+(FUP) applies.
+**Enjoy uncapped 5G/4G speed with Unlimited 5G Weekends automatically every Saturday & Sunday.
+{
+				"componentId": "sW3NJkM"
+			}
+Daily & Weekly
+Activate High Speed
+Activate Hotspot
+{
+            "defaultSelectedTile": "",
+            "planCardTopDesign": "no-line",
+            "planDetailListData": [
+  {
+    "webPService": {
+      "minHeight": 0,
+      "minWidth": 0,
+      "compressionQuality": 0.0
+    },
+    "planContainer": 1,
+    "planDetailsPagePath": "/content/u-mobile/en/personal/admin/mobile-plans-cards/prepaid/add-ons/daily-weekly/daily-weekly-unlimited",
+    "anchorName": "daily-weekly-unlimited",
+    "ctaType": "right",
+    "planStickerStyle": "variant-2",
+    "planCardColor": "turquoise",
+    "masterHeadImg": "/content/dam/u-mobile/personal/mobile-plans/prepaid/daily-and-weekly-data-plans/plan-masthead/Daily-Plan.png/jcr:content/renditions/cq5dam.web.264.90.webp",
+    "currentPrice": "15",
+    "currentPriceSuffix": "/7 Days",
+    "rightCtaText": "Buy Now",
+    "rightCtaPath": "https://shop.u.com.my/um/offer-detail/Prepaid_SIM_Pack?categorys=Plans_Only&brand=U_Prepaid&productId=581&default_service_type=new_u_mobile_line&default_region=peninsular_malaysia&default_sim_type=physical_sim&default_collect_method=delivery&additional=254629",
+    "leftCtaText": "Buy Now",
+    "leftCtaPath": "/content/u-mobile/en/personal/mobile-plans/prepaid/data-plans#daily-and-weekly",
+    "topCtaText": "Upsize Now",
+    "topCtaPath": "/content/u-mobile/en/personal/support/self-help/understand-your-bill.html",
+    "planShortName": "Unlimited Weekly",
+    "planValueTab": [
+      {
+        "leftColText": "<p style=\"text-align: center;\"><b>Unlimited Data &amp; Hotspot</b></p>\r\n",
+        "useLeftColumnOnly": "Y"
+      },
+      {
+        "useLeftColumnOnly": "Y"
+      }
+    ],
+    "keyFeatures": [
+      {
+        "keyFeatureDesc": "<p>Unlimited Data* (FUP: 25GB)</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>6Mbps Data Speed</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Unlimited Local Calls (MY)</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>Únlimited Hotspot</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      }
+    ],
+    "expandPlanCard": "false",
+    "hasPage": true
+  },
+  {
+    "webPService": {
+      "minHeight": 0,
+      "minWidth": 0,
+      "compressionQuality": 0.0
+    },
+    "planContainer": 2,
+    "planDetailsPagePath": "/content/u-mobile/en/personal/admin/mobile-plans-cards/prepaid/add-ons/daily-weekly/ultra-speed-20gb",
+    "anchorName": "ultra-speed-20gb",
+    "ctaType": "right",
+    "planStickerStyle": "variant-2",
+    "planCardColor": "turquoise",
+    "masterHeadImg": "/content/dam/u-mobile/personal/mobile-plans/prepaid/daily-and-weekly-data-plans/plan-masthead/Daily-Plan.png/jcr:content/renditions/cq5dam.web.264.90.webp",
+    "currentPrice": "15",
+    "currentPriceSuffix": "/7 Days",
+    "rightCtaText": "Buy Now",
+    "rightCtaPath": "https://shop.u.com.my/um/offer-detail/Prepaid_SIM_Pack?categorys=Plans_Only&brand=U_Prepaid&productId=581&default_service_type=new_u_mobile_line&default_region=peninsular_malaysia&default_sim_type=physical_sim&default_collect_method=delivery&additional=254630",
+    "leftCtaText": "Find a Store",
+    "leftCtaPath": "https://www.u.com.my/en/personal/support/store-finder?l=all-state,all-towns&t=prepaidStarterPacksTopUp",
+    "topCtaText": "Upsize Now",
+    "topCtaPath": "/content/u-mobile/en/personal/support/self-help/understand-your-bill.html",
+    "planShortName": "High Speed",
+    "planValueTab": [
+      {
+        "leftColText": "<p style=\"text-align: center;\"><b>20GB</b></p>\r\n",
+        "useLeftColumnOnly": "Y"
+      },
+      {
+        "useLeftColumnOnly": "Y"
+      }
+    ],
+    "keyFeatures": [
+      {
+        "keyFeatureDesc": "<p>Uncapped 5G/4G Speed</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>With Hotspot</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      }
+    ],
+    "expandPlanCard": "false",
+    "hasPage": true
+  },
+  {
+    "webPService": {
+      "minHeight": 0,
+      "minWidth": 0,
+      "compressionQuality": 0.0
+    },
+    "planContainer": 3,
+    "planDetailsPagePath": "/content/u-mobile/en/personal/admin/mobile-plans-cards/prepaid/add-ons/daily-weekly/ultra-speed-10gb",
+    "anchorName": "ultra-speed-10gb",
+    "ctaType": "right",
+    "planStickerStyle": "variant-2",
+    "planCardColor": "turquoise",
+    "masterHeadImg": "/content/dam/u-mobile/personal/mobile-plans/prepaid/daily-and-weekly-data-plans/plan-masthead/Daily-Plan.png/jcr:content/renditions/cq5dam.web.264.90.webp",
+    "currentPrice": "12",
+    "currentPriceSuffix": "/7 Days",
+    "rightCtaText": "Buy Now",
+    "rightCtaPath": "https://shop.u.com.my/um/offer-detail/Prepaid_SIM_Pack?category=Plans_Only&brand=Prepaid&productId=581&default_service_type=new_u_mobile_line&default_region=peninsular_malaysia&default_sim_type=physical_sim&default_collect_method=delivery&additional=219078",
+    "leftCtaText": "Find a Store",
+    "leftCtaPath": "https://www.u.com.my/en/personal/support/store-finder?l=all-state,all-towns&t=prepaidStarterPacksTopUp",
+    "topCtaText": "Upsize Now",
+    "topCtaPath": "/content/u-mobile/en/personal/support/self-help/understand-your-bill.html",
+    "planShortName": "High Speed",
+    "planValueTab": [
+      {
+        "leftColText": "<p style=\"text-align: center;\"><b>10GB</b></p>\r\n",
+        "useLeftColumnOnly": "Y"
+      },
+      {
+        "useLeftColumnOnly": "Y"
+      }
+    ],
+    "keyFeatures": [
+      {
+        "keyFeatureDesc": "<p>Uncapped 5G/4G Speed</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>With Hotspot</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      }
+    ],
+    "expandPlanCard": "false",
+    "hasPage": true
+  },
+  {
+    "webPService": {
+      "minHeight": 0,
+      "minWidth": 0,
+      "compressionQuality": 0.0
+    },
+    "planContainer": 4,
+    "planDetailsPagePath": "/content/u-mobile/en/personal/admin/mobile-plans-cards/prepaid/add-ons/daily-weekly/ultra-speed-5gb",
+    "anchorName": "ultra-speed-5gb",
+    "ctaType": "right",
+    "planStickerStyle": "variant-2",
+    "planCardColor": "turquoise",
+    "masterHeadImg": "/content/dam/u-mobile/personal/mobile-plans/prepaid/daily-and-weekly-data-plans/plan-masthead/Daily-Plan.png/jcr:content/renditions/cq5dam.web.264.90.webp",
+    "currentPrice": "6",
+    "currentPriceSuffix": "/24 Hours",
+    "rightCtaText": "Buy Now",
+    "rightCtaPath": "https://www.u.com.my/en/personal/support/myumobile-app",
+    "leftCtaText": "Find a Store",
+    "leftCtaPath": "https://www.u.com.my/en/personal/support/store-finder?l=all-state,all-towns&t=prepaidStarterPacksTopUp",
+    "topCtaText": "Upsize Now",
+    "topCtaPath": "/content/u-mobile/en/personal/support/self-help/understand-your-bill.html",
+    "planShortName": "High Speed",
+    "planValueTab": [
+      {
+        "leftColText": "<p style=\"text-align: center;\"><b>10GB</b></p>\r\n",
+        "useLeftColumnOnly": "Y"
+      },
+      {
+        "useLeftColumnOnly": "Y"
+      }
+    ],
+    "keyFeatures": [
+      {
+        "keyFeatureDesc": "<p>Uncapped 5G/4G Speed</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>With Hotspot</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      }
+    ],
+    "expandPlanCard": "false",
+    "hasPage": true
+  },
+  {
+    "webPService": {
+      "minHeight": 0,
+      "minWidth": 0,
+      "compressionQuality": 0.0
+    },
+    "planContainer": 5,
+    "planDetailsPagePath": "/content/u-mobile/en/personal/admin/mobile-plans-cards/prepaid/add-ons/daily-weekly/ultra-speed-1gb",
+    "anchorName": "ultra-speed-1gb",
+    "ctaType": "right",
+    "planStickerStyle": "variant-2",
+    "planCardColor": "turquoise",
+    "masterHeadImg": "/content/dam/u-mobile/personal/mobile-plans/prepaid/daily-and-weekly-data-plans/plan-masthead/Daily-Plan.png/jcr:content/renditions/cq5dam.web.264.90.webp",
+    "currentPrice": "3",
+    "currentPriceSuffix": "/24 Hours",
+    "rightCtaText": "Buy Now",
+    "rightCtaPath": "https://www.u.com.my/en/personal/support/myumobile-app",
+    "leftCtaText": "Find a Store",
+    "leftCtaPath": "https://www.u.com.my/en/personal/support/store-finder?l=all-state,all-towns&t=prepaidStarterPacksTopUp",
+    "topCtaText": "Upsize Now",
+    "topCtaPath": "/content/u-mobile/en/personal/support/self-help/understand-your-bill.html",
+    "planShortName": "High Speed",
+    "planValueTab": [
+      {
+        "leftColText": "<p style=\"text-align: center;\"><b>1GB</b></p>\r\n",
+        "useLeftColumnOnly": "Y"
+      },
+      {
+        "useLeftColumnOnly": "Y"
+      }
+    ],
+    "keyFeatures": [
+      {
+        "keyFeatureDesc": "<p>Uncapped 5G/4G Speed</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      },
+      {
+        "keyFeatureDesc": "<p>With Hotspot</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      }
+    ],
+    "expandPlanCard": "false",
+    "hasPage": true
+  }
+]
+            }
+{
+            "defaultSelectedTile": "",
+            "planCardTopDesign": "no-line",
+            "planDetailListData": [
+  {
+    "webPService": {
+      "minHeight": 0,
+      "minWidth": 0,
+      "compressionQuality": 0.0
+    },
+    "planContainer": 1,
+    "planDetailsPagePath": "/content/u-mobile/en/personal/admin/mobile-plans-cards/prepaid/add-ons/high-speed/ultra-speed-24-hours",
+    "anchorName": "ultra-speed-24-hours",
+    "ctaType": "right",
+    "planStickerStyle": "variant-2",
+    "planCardColor": "turquoise",
+    "masterHeadImg": "/content/dam/u-mobile/personal/mobile-plans/prepaid/daily-and-weekly-data-plans/plan-masthead/Daily-Plan.png/jcr:content/renditions/cq5dam.web.264.90.webp",
+    "currentPrice": "5",
+    "currentPriceSuffix": "/24 Hours",
+    "rightCtaText": "Buy Now",
+    "rightCtaPath": "https://www.u.com.my/en/personal/support/myumobile-app",
+    "leftCtaText": "Find a Store",
+    "leftCtaPath": "https://www.u.com.my/en/personal/support/store-finder?l=all-state,all-towns&t=prepaidStarterPacksTopUp",
+    "topCtaText": "Upsize Now",
+    "topCtaPath": "/content/u-mobile/en/personal/support/self-help/understand-your-bill.html",
+    "planShortName": "Activate High Speed",
+    "planValueTab": [
+      {
+        "useLeftColumnOnly": "Y"
+      },
+      {
+        "useLeftColumnOnly": "Y"
+      }
+    ],
+    "keyFeatures": [
+      {
+        "keyFeatureDesc": "<p>Uncapped 5G/4G Speed</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      }
+    ],
+    "expandPlanCard": "false",
+    "hasPage": true
+  },
+  {
+    "webPService": {
+      "minHeight": 0,
+      "minWidth": 0,
+      "compressionQuality": 0.0
+    },
+    "planContainer": 2,
+    "planDetailsPagePath": "/content/u-mobile/en/personal/admin/mobile-plans-cards/prepaid/add-ons/high-speed/ultra-speed-2-hours",
+    "anchorName": "ultra-speed-2-hours",
+    "ctaType": "right",
+    "planStickerStyle": "variant-2",
+    "planCardColor": "turquoise",
+    "masterHeadImg": "/content/dam/u-mobile/personal/mobile-plans/prepaid/daily-and-weekly-data-plans/plan-masthead/Daily-Plan.png/jcr:content/renditions/cq5dam.web.264.90.webp",
+    "currentPrice": "1",
+    "currentPriceSuffix": "/2 Hours",
+    "rightCtaText": "Buy Now",
+    "rightCtaPath": "https://www.u.com.my/en/personal/support/myumobile-app",
+    "leftCtaText": "Find a Store",
+    "leftCtaPath": "https://www.u.com.my/en/personal/support/store-finder?l=all-state,all-towns&t=prepaidStarterPacksTopUp",
+    "topCtaText": "Upsize Now",
+    "topCtaPath": "/content/u-mobile/en/personal/support/self-help/understand-your-bill.html",
+    "planShortName": "Activate High Speed",
+    "planValueTab": [
+      {
+        "useLeftColumnOnly": "Y"
+      },
+      {
+        "useLeftColumnOnly": "Y"
+      }
+    ],
+    "keyFeatures": [
+      {
+        "keyFeatureDesc": "<p>Uncapped 5G/4G Speed</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      }
+    ],
+    "expandPlanCard": "false",
+    "hasPage": true
+  }
+]
+            }
+How to Activate Your Add-Ons
+{
+				"componentId": "a1uagQNs"
+			}
+MyUMobile App
+UMB
+Step 1
+Launch
+MyUMobile App
+.
+Step 2
+Select Add-Ons and tap on the
+“Speed & Hotspot”
+or
+“Roam & Travel”
+tab.  Then, select the Activate High Speed Add-Ons.
+Step 3
+Confirm your subscription.
+​Make sure you have enough balance in your Prepaid account and an active Data plan to successfully activate High Speed.
+Step 1
+Dial
+*118#​
+Step 2
+Select Activate High Speed.​
+Step 3
+Confirm your subscription.
+​Make sure you have enough balance in your Prepaid account and an active Data plan to successfully activate High Speed.
+{
+            "defaultSelectedTile": "",
+            "planCardTopDesign": "no-line",
+            "planDetailListData": [
+  {
+    "webPService": {
+      "minHeight": 0,
+      "minWidth": 0,
+      "compressionQuality": 0.0
+    },
+    "planContainer": 1,
+    "planDetailsPagePath": "/content/u-mobile/en/personal/admin/mobile-plans-cards/prepaid/add-ons/hotspot/hotspot-5gb",
+    "anchorName": "hotspot-5gb",
+    "ctaType": "right",
+    "planStickerStyle": "variant-2",
+    "planCardColor": "turquoise",
+    "masterHeadImg": "/content/dam/u-mobile/personal/mobile-plans/prepaid/daily-and-weekly-data-plans/plan-masthead/Daily-Plan.png/jcr:content/renditions/cq5dam.web.264.90.webp",
+    "currentPrice": "5",
+    "currentPriceSuffix": "/30 Days",
+    "rightCtaText": "Buy Now",
+    "rightCtaPath": "https://www.u.com.my/en/personal/support/myumobile-app",
+    "leftCtaText": "Find a Store",
+    "leftCtaPath": "https://www.u.com.my/en/personal/support/store-finder?l=all-state,all-towns&t=prepaidStarterPacksTopUp",
+    "topCtaText": "Upsize Now",
+    "topCtaPath": "/content/u-mobile/en/personal/support/self-help/understand-your-bill.html",
+    "planShortName": "Hotspot",
+    "planValueTab": [
+      {
+        "useLeftColumnOnly": "Y"
+      }
+    ],
+    "keyFeatures": [
+      {
+        "keyFeatureDesc": "<p>Unlimited Hotspot</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      }
+    ],
+    "expandPlanCard": "false",
+    "hasPage": true
+  },
+  {
+    "webPService": {
+      "minHeight": 0,
+      "minWidth": 0,
+      "compressionQuality": 0.0
+    },
+    "planContainer": 2,
+    "planDetailsPagePath": "/content/u-mobile/en/personal/admin/mobile-plans-cards/prepaid/add-ons/hotspot/hotspot-24-hours",
+    "anchorName": "hotspot-24-hours",
+    "ctaType": "right",
+    "planStickerStyle": "variant-2",
+    "planCardColor": "turquoise",
+    "masterHeadImg": "/content/dam/u-mobile/personal/mobile-plans/prepaid/daily-and-weekly-data-plans/plan-masthead/Daily-Plan.png/jcr:content/renditions/cq5dam.web.264.90.webp",
+    "currentPrice": "1",
+    "currentPriceSuffix": "/24 Hours",
+    "rightCtaText": "Buy Now",
+    "rightCtaPath": "https://www.u.com.my/en/personal/support/myumobile-app",
+    "leftCtaText": "Find a Store",
+    "leftCtaPath": "https://www.u.com.my/en/personal/support/store-finder?l=all-state,all-towns&t=prepaidStarterPacksTopUp",
+    "topCtaText": "Upsize Now",
+    "topCtaPath": "/content/u-mobile/en/personal/support/self-help/understand-your-bill.html",
+    "planShortName": "Hotspot",
+    "planValueTab": [
+      {
+        "useLeftColumnOnly": "Y"
+      }
+    ],
+    "keyFeatures": [
+      {
+        "keyFeatureDesc": "<p>Unlimited Hotspot</p>\r\n",
+        "keyFeatureIcon": "check-mark"
+      }
+    ],
+    "expandPlanCard": "false",
+    "hasPage": true
+  }
+]
+            }
+*Hotspot data and speed are according to your subscribed data plan​
+How to Activate Your Add-Ons
+{
+				"componentId": "fFvAHB4"
+			}
+MyUMobile App
+UMB
+Step 1
+Launch
+MyUMobile App
+.
+Step 2
+Select Add-Ons and tap on the
+“Speed & Hotspot”
+or
+“Roam & Travel”
+tab. Then, select the Activate Hotspot Add-Ons.
+Step 3
+Confirm your subscription.
+Make sure you have enough balance in your Prepaid account and an active Data plan to successfully activate Hotspot.
+Step 1
+Dial
+*118#​
+Step 2
+Select Activate Hotspot.​
+Step 3
+Confirm your subscription.
+Make sure you have enough balance in your Prepaid account and an active Data plan to successfully activate Hotspot.
+More Services
+{
+				"fullWidth": false,
+				"numberOfTiles": 3,
+				"componentId": "Ct46AZs",
+				"crossSellType": "promotional",
+				"hideTitle": "",
+				"vertical": "bottom",
+				"horizontal": "right"
+			}
+Travellers Plan
+Looking for a reliable SIM/eSIM for your travels abroad? Explore U Mobile's Unlimited Data plans with seamless 5G connectivity for as low as RM12. Know more.
+Learn more
+Roaming
+Enjoy free Unlimited High-Speed Data Roaming on U Mobile Prepaid & Postpaid plans. Now you can stay connected when travelling the world! Learn more now.
+Learn more
+CreditSOS
+Win your FREE RM2 Prepaid Credit in our CreditSOS Automated Subscription Campaign. All you need to do is subscribe to a CreditSOS subscription for your chance to win!
+Learn more
+Travellers Plan
+Looking for a reliable SIM/eSIM for your travels abroad? Explore U Mobile's Unlimited Data plans with seamless 5G connectivity for as low as RM12. Know more.
+Learn more
+Roaming
+Enjoy free Unlimited High-Speed Data Roaming on U Mobile Prepaid & Postpaid plans. Now you can stay connected when travelling the world! Learn more now.
+Learn more
+CreditSOS
+Win your FREE RM2 Prepaid Credit in our CreditSOS Automated Subscription Campaign. All you need to do is subscribe to a CreditSOS subscription for your chance to win!
+Learn more
+CreditShare with Friends & Family Now!
+Share credits with the ones you love wherever you go.
+Learn more
+Get MyUMobile App Now!
+Enjoy a better, faster and safer experience today!
+Learn more
+Learn More
+Switch to U
+Enjoy more awesome perks and rebates when you Switch to U!
+Learn more
+Frequently Asked Questions
+{
+				"componentId": "o_0jEJ4"
+			}
+U Prepaid Plans
+SIM Pack
+Activate Hotspot
+Activate High Speed
+Daily & Weekly
+{
+				"dropdownFaqProperties": [
+  {
+    "title": "Postpaid",
+    "value": "postpaid",
+    "url": "/content/u-mobile/en/personal/mobile-plans/postpaid.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Postpaid Plans",
+        "value": "postpaid-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/postpaid-plans.html"
+      },
+      {
+        "title": "Be Unbeatable | U Mobile",
+        "value": "the-unbeatables",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/the-unbeatables.html"
+      },
+      {
+        "title": "Family Lines",
+        "value": "family-lines",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/family-lines.html"
+      },
+      {
+        "title": "Family Plan",
+        "value": "family-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/family-plans.html"
+      }
+    ]
+  },
+  {
+    "title": "Prepaid",
+    "value": "prepaid",
+    "url": "/content/u-mobile/en/personal/mobile-plans/prepaid.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Indonesia",
+        "value": "indonesia",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/indonesia.html"
+      },
+      {
+        "title": "Bangladesh",
+        "value": "bangladesh",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/bangladesh.html"
+      },
+      {
+        "title": "Data Plans",
+        "value": "data-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/data-plans.html"
+      },
+      {
+        "title": "Add-Ons",
+        "value": "add-ons",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/add-ons.html"
+      }
+    ]
+  },
+  {
+    "title": "Switch To U ",
+    "value": "switch-to-u",
+    "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "iOS",
+        "value": "ios",
+        "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u/ios.html"
+      },
+      {
+        "title": "Android",
+        "value": "android",
+        "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u/android.html"
+      }
+    ]
+  },
+  {
+    "title": "U Borneo Plan",
+    "value": "borneo",
+    "url": "/content/u-mobile/en/personal/mobile-plans/borneo.html",
+    "isGroupLabel": true,
+    "childList": []
+  },
+  {
+    "title": "Roam & Travel",
+    "value": "roam-travel",
+    "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Travellers Plan",
+        "value": "travellers-plan",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/travellers-plan.html"
+      },
+      {
+        "title": "International Direct Dial (IDD)",
+        "value": "international-direct-dial",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/international-direct-dial.html"
+      },
+      {
+        "title": "Roaming",
+        "value": "roaming",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/roaming.html"
+      }
+    ]
+  }
+],
+				"dropdownDefault": "/content/u-mobile/en/personal/mobile-plans/prepaid/data-plans.html",
+				"breadCrumbs": []
+			}
+More FAQs
+View T&C
+{
+				"dropdownFaqProperties": [
+  {
+    "title": "Postpaid",
+    "value": "postpaid",
+    "url": "/content/u-mobile/en/personal/mobile-plans/postpaid.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Postpaid Plans",
+        "value": "postpaid-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/postpaid-plans.html"
+      },
+      {
+        "title": "Be Unbeatable | U Mobile",
+        "value": "the-unbeatables",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/the-unbeatables.html"
+      },
+      {
+        "title": "Family Lines",
+        "value": "family-lines",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/family-lines.html"
+      },
+      {
+        "title": "Family Plan",
+        "value": "family-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/family-plans.html"
+      }
+    ]
+  },
+  {
+    "title": "Prepaid",
+    "value": "prepaid",
+    "url": "/content/u-mobile/en/personal/mobile-plans/prepaid.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Indonesia",
+        "value": "indonesia",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/indonesia.html"
+      },
+      {
+        "title": "Bangladesh",
+        "value": "bangladesh",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/bangladesh.html"
+      },
+      {
+        "title": "Data Plans",
+        "value": "data-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/data-plans.html"
+      },
+      {
+        "title": "Add-Ons",
+        "value": "add-ons",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/add-ons.html"
+      }
+    ]
+  },
+  {
+    "title": "Switch To U ",
+    "value": "switch-to-u",
+    "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "iOS",
+        "value": "ios",
+        "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u/ios.html"
+      },
+      {
+        "title": "Android",
+        "value": "android",
+        "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u/android.html"
+      }
+    ]
+  },
+  {
+    "title": "U Borneo Plan",
+    "value": "borneo",
+    "url": "/content/u-mobile/en/personal/mobile-plans/borneo.html",
+    "isGroupLabel": true,
+    "childList": []
+  },
+  {
+    "title": "Roam & Travel",
+    "value": "roam-travel",
+    "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Travellers Plan",
+        "value": "travellers-plan",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/travellers-plan.html"
+      },
+      {
+        "title": "International Direct Dial (IDD)",
+        "value": "international-direct-dial",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/international-direct-dial.html"
+      },
+      {
+        "title": "Roaming",
+        "value": "roaming",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/roaming.html"
+      }
+    ]
+  }
+],
+				"dropdownDefault": "/content/u-mobile/en/personal/mobile-plans/prepaid/data-plans.html",
+				"breadCrumbs": []
+			}
+More FAQs
+View T&C
+{
+				"dropdownFaqProperties": [
+  {
+    "title": "Postpaid",
+    "value": "postpaid",
+    "url": "/content/u-mobile/en/personal/mobile-plans/postpaid.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Postpaid Plans",
+        "value": "postpaid-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/postpaid-plans.html"
+      },
+      {
+        "title": "Be Unbeatable | U Mobile",
+        "value": "the-unbeatables",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/the-unbeatables.html"
+      },
+      {
+        "title": "Family Lines",
+        "value": "family-lines",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/family-lines.html"
+      },
+      {
+        "title": "Family Plan",
+        "value": "family-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/family-plans.html"
+      }
+    ]
+  },
+  {
+    "title": "Prepaid",
+    "value": "prepaid",
+    "url": "/content/u-mobile/en/personal/mobile-plans/prepaid.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Indonesia",
+        "value": "indonesia",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/indonesia.html"
+      },
+      {
+        "title": "Bangladesh",
+        "value": "bangladesh",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/bangladesh.html"
+      },
+      {
+        "title": "Data Plans",
+        "value": "data-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/data-plans.html"
+      },
+      {
+        "title": "Add-Ons",
+        "value": "add-ons",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/add-ons.html"
+      }
+    ]
+  },
+  {
+    "title": "Switch To U ",
+    "value": "switch-to-u",
+    "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "iOS",
+        "value": "ios",
+        "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u/ios.html"
+      },
+      {
+        "title": "Android",
+        "value": "android",
+        "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u/android.html"
+      }
+    ]
+  },
+  {
+    "title": "U Borneo Plan",
+    "value": "borneo",
+    "url": "/content/u-mobile/en/personal/mobile-plans/borneo.html",
+    "isGroupLabel": true,
+    "childList": []
+  },
+  {
+    "title": "Roam & Travel",
+    "value": "roam-travel",
+    "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Travellers Plan",
+        "value": "travellers-plan",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/travellers-plan.html"
+      },
+      {
+        "title": "International Direct Dial (IDD)",
+        "value": "international-direct-dial",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/international-direct-dial.html"
+      },
+      {
+        "title": "Roaming",
+        "value": "roaming",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/roaming.html"
+      }
+    ]
+  }
+],
+				"dropdownDefault": "/content/u-mobile/en/personal/mobile-plans/prepaid/data-plans.html",
+				"breadCrumbs": []
+			}
+More FAQs
+View T&C
+{
+				"dropdownFaqProperties": [
+  {
+    "title": "Postpaid",
+    "value": "postpaid",
+    "url": "/content/u-mobile/en/personal/mobile-plans/postpaid.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Postpaid Plans",
+        "value": "postpaid-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/postpaid-plans.html"
+      },
+      {
+        "title": "Be Unbeatable | U Mobile",
+        "value": "the-unbeatables",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/the-unbeatables.html"
+      },
+      {
+        "title": "Family Lines",
+        "value": "family-lines",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/family-lines.html"
+      },
+      {
+        "title": "Family Plan",
+        "value": "family-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/family-plans.html"
+      }
+    ]
+  },
+  {
+    "title": "Prepaid",
+    "value": "prepaid",
+    "url": "/content/u-mobile/en/personal/mobile-plans/prepaid.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Indonesia",
+        "value": "indonesia",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/indonesia.html"
+      },
+      {
+        "title": "Bangladesh",
+        "value": "bangladesh",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/bangladesh.html"
+      },
+      {
+        "title": "Data Plans",
+        "value": "data-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/data-plans.html"
+      },
+      {
+        "title": "Add-Ons",
+        "value": "add-ons",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/add-ons.html"
+      }
+    ]
+  },
+  {
+    "title": "Switch To U ",
+    "value": "switch-to-u",
+    "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "iOS",
+        "value": "ios",
+        "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u/ios.html"
+      },
+      {
+        "title": "Android",
+        "value": "android",
+        "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u/android.html"
+      }
+    ]
+  },
+  {
+    "title": "U Borneo Plan",
+    "value": "borneo",
+    "url": "/content/u-mobile/en/personal/mobile-plans/borneo.html",
+    "isGroupLabel": true,
+    "childList": []
+  },
+  {
+    "title": "Roam & Travel",
+    "value": "roam-travel",
+    "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Travellers Plan",
+        "value": "travellers-plan",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/travellers-plan.html"
+      },
+      {
+        "title": "International Direct Dial (IDD)",
+        "value": "international-direct-dial",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/international-direct-dial.html"
+      },
+      {
+        "title": "Roaming",
+        "value": "roaming",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/roaming.html"
+      }
+    ]
+  }
+],
+				"dropdownDefault": "/content/u-mobile/en/personal/mobile-plans/prepaid/data-plans.html",
+				"breadCrumbs": []
+			}
+More FAQs
+View T&C
+{
+				"dropdownFaqProperties": [
+  {
+    "title": "Postpaid",
+    "value": "postpaid",
+    "url": "/content/u-mobile/en/personal/mobile-plans/postpaid.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Postpaid Plans",
+        "value": "postpaid-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/postpaid-plans.html"
+      },
+      {
+        "title": "Be Unbeatable | U Mobile",
+        "value": "the-unbeatables",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/the-unbeatables.html"
+      },
+      {
+        "title": "Family Lines",
+        "value": "family-lines",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/family-lines.html"
+      },
+      {
+        "title": "Family Plan",
+        "value": "family-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/postpaid/family-plans.html"
+      }
+    ]
+  },
+  {
+    "title": "Prepaid",
+    "value": "prepaid",
+    "url": "/content/u-mobile/en/personal/mobile-plans/prepaid.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Indonesia",
+        "value": "indonesia",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/indonesia.html"
+      },
+      {
+        "title": "Bangladesh",
+        "value": "bangladesh",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/bangladesh.html"
+      },
+      {
+        "title": "Data Plans",
+        "value": "data-plans",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/data-plans.html"
+      },
+      {
+        "title": "Add-Ons",
+        "value": "add-ons",
+        "url": "/content/u-mobile/en/personal/mobile-plans/prepaid/add-ons.html"
+      }
+    ]
+  },
+  {
+    "title": "Switch To U ",
+    "value": "switch-to-u",
+    "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "iOS",
+        "value": "ios",
+        "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u/ios.html"
+      },
+      {
+        "title": "Android",
+        "value": "android",
+        "url": "/content/u-mobile/en/personal/mobile-plans/switch-to-u/android.html"
+      }
+    ]
+  },
+  {
+    "title": "U Borneo Plan",
+    "value": "borneo",
+    "url": "/content/u-mobile/en/personal/mobile-plans/borneo.html",
+    "isGroupLabel": true,
+    "childList": []
+  },
+  {
+    "title": "Roam & Travel",
+    "value": "roam-travel",
+    "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Travellers Plan",
+        "value": "travellers-plan",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/travellers-plan.html"
+      },
+      {
+        "title": "International Direct Dial (IDD)",
+        "value": "international-direct-dial",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/international-direct-dial.html"
+      },
+      {
+        "title": "Roaming",
+        "value": "roaming",
+        "url": "/content/u-mobile/en/personal/mobile-plans/roam-travel/roaming.html"
+      }
+    ]
+  }
+],
+				"dropdownDefault": "/content/u-mobile/en/personal/mobile-plans/prepaid/data-plans.html",
+				"breadCrumbs": []
+			}
+More FAQs
+View T&C
+{
+					"siteTheme": "theme-personal"
+				}
+We use cookies to bring you the best experience on our site by tailoring the most relevant content for you. Click ‘Proceed’ to enjoy optimal performance. View our
+Privacy Notice
+to learn more.
+Proceed

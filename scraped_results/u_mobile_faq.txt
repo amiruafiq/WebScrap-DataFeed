@@ -1,0 +1,324 @@
+FAQs | Support | U Mobile
+Frequently Asked Questions
+{
+				"searchResultPagePath": "/content/u-mobile/en/personal/faq-search-results",
+				"serviceUrlSearchSuggestion": "/content/u-mobile/en/personal/support/faqs/jcr:content/iparsys-1/layout_container/layout_container/search_textbox.suggestions"
+			}
+Suggested Searches
+Browse Categories
+General Enquiries
+Mobile Plans
+Broadband
+Digital Services
+Online Store
+Devices
+Happenings
+Others
+Popular Questions
+{
+				"dropdownFaqProperties": [
+  {
+    "title": "Home",
+    "value": "home",
+    "url": "/content/u-mobile/en/personal/home.html",
+    "isGroupLabel": true,
+    "childList": []
+  },
+  {
+    "title": "Devices",
+    "value": "devices",
+    "url": "/content/u-mobile/en/personal/devices.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Unbeatable 5G Devices",
+        "value": "unbeatable-5g-devices",
+        "url": "/content/u-mobile/en/personal/devices/unbeatable-5g-devices.html"
+      },
+      {
+        "title": "Trade In",
+        "value": "trade-in",
+        "url": "/content/u-mobile/en/personal/devices/trade-in.html"
+      }
+    ]
+  },
+  {
+    "title": "Broadband",
+    "value": "broadband",
+    "url": "/content/u-mobile/en/personal/broadband.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Fibre Broadband",
+        "value": "fibre-broadband",
+        "url": "/content/u-mobile/en/personal/broadband/fibre-broadband.html"
+      },
+      {
+        "title": "Wireless",
+        "value": "wireless",
+        "url": "/content/u-mobile/en/personal/broadband/wireless.html"
+      },
+      {
+        "title": "Fibre",
+        "value": "fibre",
+        "url": "/content/u-mobile/en/personal/broadband/fibre.html"
+      }
+    ]
+  },
+  {
+    "title": "Lifestyle",
+    "value": "lifestyle",
+    "url": "/content/u-mobile/en/personal/lifestyle.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Entertainment",
+        "value": "entertainment",
+        "url": "/content/u-mobile/en/personal/lifestyle/entertainment.html"
+      },
+      {
+        "title": "Others ",
+        "value": "others",
+        "url": "/content/u-mobile/en/personal/lifestyle/others.html"
+      },
+      {
+        "title": "Financial",
+        "value": "financial",
+        "url": "/content/u-mobile/en/personal/lifestyle/financial.html"
+      }
+    ]
+  },
+  {
+    "title": "Deals",
+    "value": "deals",
+    "url": "/content/u-mobile/en/personal/deals.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Travel with U",
+        "value": "travel-with-u",
+        "url": "/content/u-mobile/en/personal/deals/travel-with-u.html"
+      },
+      {
+        "title": "Pakej Rahmah Siswa",
+        "value": "pakej-rahmah",
+        "url": "/content/u-mobile/en/personal/deals/pakej-rahmah.html"
+      },
+      {
+        "title": "Free Data for First Time App Users",
+        "value": "free-data-first-time-app-users",
+        "url": "/content/u-mobile/en/personal/deals/free-data-first-time-app-users.html"
+      },
+      {
+        "title": "RM0 iPhone Promo",
+        "value": "iphone-rm0",
+        "url": "/content/u-mobile/en/personal/deals/iphone-rm0.html"
+      },
+      {
+        "title": "MyUMobile Rewards",
+        "value": "rewards",
+        "url": "/content/u-mobile/en/personal/deals/rewards.html"
+      },
+      {
+        "title": "Prepaid Promo",
+        "value": "good-deals-for-u",
+        "url": "/content/u-mobile/en/personal/deals/good-deals-for-u.html"
+      },
+      {
+        "title": "Latest 5G Devices",
+        "value": "5g-devices",
+        "url": "/content/u-mobile/en/personal/deals/5g-devices.html"
+      },
+      {
+        "title": "Samsung 4K TV",
+        "value": "samsung-tv",
+        "url": "/content/u-mobile/en/personal/deals/samsung-tv.html"
+      },
+      {
+        "title": "Hong Leong Bank Exclusive Campaign",
+        "value": "hong-leong-bank-exclusive",
+        "url": "/content/u-mobile/en/personal/deals/hong-leong-bank-exclusive.html"
+      },
+      {
+        "title": "Purchase Prepaid Plan Campaign",
+        "value": "prepaid-plan-campaign-2025",
+        "url": "/content/u-mobile/en/personal/deals/prepaid-plan-campaign-2025.html"
+      },
+      {
+        "title": "Bank Islam Reload Exclusive",
+        "value": "bank-islam-reload-exclusive",
+        "url": "/content/u-mobile/en/personal/deals/bank-islam-reload-exclusive.html"
+      },
+      {
+        "title": "Win Vouchers for a Home Makeover & Cashback",
+        "value": "home-makeover",
+        "url": "/content/u-mobile/en/personal/deals/home-makeover.html"
+      },
+      {
+        "title": "International Airtime Transfer Ramadhan & Raya",
+        "value": "international-airtime-transfer-ramadhan-raya",
+        "url": "/content/u-mobile/en/personal/deals/international-airtime-transfer-ramadhan-raya.html"
+      },
+      {
+        "title": "Buy 1 Free 1 5G Phone ",
+        "value": "5g-phone-buy-1-free-1",
+        "url": "/content/u-mobile/en/personal/deals/5g-phone-buy-1-free-1.html"
+      },
+      {
+        "title": "Prepaid Personalised Offers",
+        "value": "prepaid-personalised-offers",
+        "url": "/content/u-mobile/en/personal/deals/prepaid-personalised-offers.html"
+      }
+    ]
+  },
+  {
+    "title": "Support",
+    "value": "support",
+    "url": "/content/u-mobile/en/personal/support.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "MyUMobile App",
+        "value": "myumobile-app",
+        "url": "/content/u-mobile/en/personal/support/myumobile-app.html"
+      },
+      {
+        "title": "FAQs",
+        "value": "faqs",
+        "url": "/content/u-mobile/en/personal/support/faqs.html"
+      },
+      {
+        "title": "Find a Store",
+        "value": "store-finder",
+        "url": "/content/u-mobile/en/personal/support/store-finder.html"
+      },
+      {
+        "title": "Terms & Conditions",
+        "value": "terms-conditions",
+        "url": "/content/u-mobile/en/personal/support/terms-conditions.html"
+      },
+      {
+        "title": "Contact Us",
+        "value": "contact-us",
+        "url": "/content/u-mobile/en/personal/support/contact-us.html"
+      },
+      {
+        "title": "Self Help ",
+        "value": "self-help",
+        "url": "/content/u-mobile/en/personal/support/self-help.html"
+      },
+      {
+        "title": "Scam Awareness",
+        "value": "scam-awareness",
+        "url": "/content/u-mobile/en/personal/support/scam-awareness.html"
+      },
+      {
+        "title": "Port Out Survey Form",
+        "value": "posurvey",
+        "url": "/content/u-mobile/en/personal/support/posurvey.html"
+      },
+      {
+        "title": "Self Serve",
+        "value": "self-serve",
+        "url": "/content/u-mobile/en/personal/support/self-serve.html"
+      },
+      {
+        "title": "Coverage Map",
+        "value": "coverage-map",
+        "url": "/content/u-mobile/en/personal/support/coverage-map.html"
+      }
+    ]
+  },
+  {
+    "title": "Error Message",
+    "value": "error-message",
+    "url": "/content/u-mobile/en/personal/error-message.html",
+    "isGroupLabel": true,
+    "childList": []
+  },
+  {
+    "title": "Search Results",
+    "value": "search-results",
+    "url": "/content/u-mobile/en/personal/search-results.html",
+    "isGroupLabel": true,
+    "childList": []
+  },
+  {
+    "title": "Offline Device Stock Check",
+    "value": "offline-device-stock-check",
+    "url": "/content/u-mobile/en/personal/offline-device-stock-check.html",
+    "isGroupLabel": true,
+    "childList": []
+  },
+  {
+    "title": "U Mobile Prepaid Top-Up | Instant Mobile Credit Reload",
+    "value": "prepaid-top-up",
+    "url": "/content/u-mobile/en/personal/prepaid-top-up.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Prepaid Top Up Status",
+        "value": "prepaid-top-up-status",
+        "url": "/content/u-mobile/en/personal/prepaid-top-up/prepaid-top-up-status.html"
+      }
+    ]
+  },
+  {
+    "title": "Online Bill Payment​",
+    "value": "postpaid-pay-bill",
+    "url": "/content/u-mobile/en/personal/postpaid-pay-bill.html",
+    "isGroupLabel": true,
+    "childList": [
+      {
+        "title": "Postpaid Pay Bill Status",
+        "value": "postpaid-pay-bill-status",
+        "url": "/content/u-mobile/en/personal/postpaid-pay-bill/postpaid-pay-bill-status.html"
+      }
+    ]
+  },
+  {
+    "title": "site-maintenance",
+    "value": "site-maintenance",
+    "url": "/content/u-mobile/en/personal/site-maintenance.html",
+    "isGroupLabel": true,
+    "childList": []
+  },
+  {
+    "title": "Get 5G",
+    "value": "get-5g",
+    "url": "/content/u-mobile/en/personal/get-5g.html",
+    "isGroupLabel": true,
+    "childList": []
+  },
+  {
+    "title": "Grand Opening of Sunway Pyramid Flagship Store",
+    "value": "grand-opening",
+    "url": "/content/u-mobile/en/personal/grand-opening.html",
+    "isGroupLabel": true,
+    "childList": []
+  }
+],
+				"dropdownDefault": "/content/u-mobile/en/personal/support/faqs.html",
+				"breadCrumbs": []
+			}
+Expand All
+Collapse All
+More Ways to Reach Out
+Whether it’s through the MyUMobile App or social media, getting in touch is quick and easy.
+MyUMobile App
+Enjoy a better, faster and safer experience today!
+Download App
+Download App
+Facebook
+Drop us your message on Messenger.
+Chat Now
+Instagram
+Have questions? Feel free to DM us!
+DM Now
+{
+					"siteTheme": "theme-personal"
+				}
+We use cookies to bring you the best experience on our site by tailoring the most relevant content for you. Click ‘Proceed’ to enjoy optimal performance. View our
+Privacy Notice
+to learn more.
+Proceed

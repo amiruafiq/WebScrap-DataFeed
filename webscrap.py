@@ -4,9 +4,9 @@ import os
 
 # 💡 Preset telco URLs
 telco_urls = {
-    "U Mobile - Postpaid Plans": "https://www.u.com.my/en/personal/postpaid",
-    "U Mobile - Support": "https://www.u.com.my/en/support",
-
+    "U Mobile - Prepaid Plans": "https://www.u.com.my/en/personal/mobile-plans/prepaid/data-plans",
+    "U Mobile - Postpaid Plans": "https://www.u.com.my/en/personal/mobile-plans/postpaid/postpaid-plans",
+    "U Mobile - FAQ": "https://www.u.com.my/en/personal/support/faqs"
 }
 
 def scrape_page_to_file(url, output_filename="output.txt", output_folder="scraped_results"):
@@ -34,19 +34,14 @@ def scrape_page_to_file(url, output_filename="output.txt", output_folder="scrape
 
 
 # -------------------------------
-# 🧪 Run the scraper
+# 🚀 Auto-run all URLs
 # -------------------------------
 if __name__ == "__main__":
-    print("\nChoose a telco page to scrape:\n")
+    print("\n[🔄] Scraping all U Mobile pages...\n")
 
-    for idx, name in enumerate(telco_urls.keys(), start=1):
-        print(f"{idx}. {name}")
+    for name, url in telco_urls.items():
+        filename = name.lower().replace(" - ", "_").replace(" ", "_") + ".txt"
+        print(f"[→] Scraping: {name}")
+        scrape_page_to_file(url, filename)
 
-    choice = int(input("\nEnter your choice (e.g. 1): "))
-    selected_name = list(telco_urls.keys())[choice - 1]
-    selected_url = telco_urls[selected_name]
-
-    filename = selected_name.lower().replace(" - ", "_").replace(" ", "_") + ".txt"
-
-    print(f"\n[→] Scraping: {selected_name}")
-    scrape_page_to_file(selected_url, filename)
+    print("\n[✅] All pages scraped and saved to 'scraped_results/' folder.")
