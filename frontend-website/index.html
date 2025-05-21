@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Afiq's GenAI Chatbot</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+      background-color: #f4f4f4;
+    }
+    .chat-box {
+      max-width: 600px;
+      margin: auto;
+      background: white;
+      padding: 1rem;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .message {
+      margin: 1rem 0;
+    }
+    .user {
+      font-weight: bold;
+      color: #007bff;
+    }
+    .bot {
+      color: #333;
+    }
+    input[type="text"] {
+      width: 80%;
+      padding: 0.5rem;
+      font-size: 1rem;
+    }
+    button {
+      padding: 0.5rem 1rem;
+      font-size: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="chat-box" id="chatBox">
+    <h2>💬 Afiq's Chatbot</h2>
+    <div id="messages"></div>
+    <input type="text" id="userInput" placeholder="Type your question here..." />
+    <button onclick="sendMessage()">Send</button>
+  </div>
+
+  <script>
+    async function sendMessage() {
+      const input = document.getElementById('userInput');
+      const messagesDiv = document.getElementById('messages');
+      const userMessage = input.value.trim();
+      if (!userMessage) return;
+
+      messagesDiv.innerHTML += `<div class="message user">🧑‍💻 You: ${userMessage}</div>`;
+      input.value = '';
+
+      try {
+        const response = await fetch("<api link", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json"
+          },
+          body: JSON.stringify({ question: userMessage })
+        });
+
+        const result = await response.json();
+        const answer = result.answer || "Sorry, I couldn't get a response.";
+
+        messagesDiv.innerHTML += `<div class="message bot">🤖 Bot: ${answer}</div>`;
+      } catch (err) {
+        messagesDiv.innerHTML += `<div class="message bot">❌ Error: ${err.message}</div>`;
+      }
+
+      messagesDiv.scrollTop = messagesDiv.scrollHeight;
+    }
+  </script>
+</body>
+</html>

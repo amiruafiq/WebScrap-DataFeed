@@ -1,20 +1,206 @@
-FAQs | Support | U Mobile
+5G Phone Buy 1 Free 1 | U Mobile
+{
+				"layout": "fixed-width-carousel",
+				"autoRotationDuration": 0,
+				"useNumberPagination": false
+			}
+{
+					"bannerTitle": "Buy 1 Free Device Bundle",
+					"bannerType": "normal"
+				}
+Buy 1 Free 1 5G Phone
+Best Shared with U Family
+Double Your Connectivity with Buy 1 Free 1 5G Phone
+Unlock more value with our U Family Plan! Here’s what makes this offer so special:
+Shareable 1,000GB 5G Data
+Shareable FREE Global Roaming in Over 60 Destinations​
+0% instalment with U PayLater 36 months​
+Get 2 5G Phones for the Price of 1
+realme
+GT7 Pro 5G
+512GB
+RRP:
+RM3,699
+FREE
+realme
+13 Pro+ 5G 512GB
+RRP:
+RM2,299
+from
+RM99
+/month
+Book an Appointment
+Samsung
+Galaxy S25 Ultra
+5G 256GB
+RRP:
+RM5,999
+FREE
+Samsung
+Galaxy S25 5G 256GB
+RRP:
+RM3,999
+from
+RM168
+/month
+Book an Appointment
+OPPO
+Find X8 Pro 5G
+512GB
+RRP:
+RM4,999
+FREE
+OPPO
+Reno13 Pro 5G 512GB
+RRP:
+RM2,999
+from
+RM139
+/month
+Book an Appointment
+{
+				"layout": "arrow-carousel",
+				"autoRotationDuration": 0,
+				"useNumberPagination": false
+			}
+Samsung
+Galaxy S25 Ultra 5G 256GB
+RRP:
+RM5,999
+FREE
+Samsung
+Galaxy S25 5G 256GB
+RRP:
+RM3,999
+from
+RM168
+/month
+Book an Appointment
+OPPO
+Find X8 Pro 5G 512GB
+RRP:
+RM4,999
+FREE
+OPPO
+Reno13 Pro 5G 512GB
+RRP:
+RM2,999
+from
+RM139
+/month
+Book an Appointment
+realme
+GT7 Pro 5G
+512GB
+RRP:
+RM3,699
+FREE
+realme
+13 Pro+ 5G 512GB
+RRP:
+RM2,299
+from
+RM99
+/month
+Book an Appointment
+Prefer a Call? Leave Your Details & We'll Reach Out​
+{
+				"formName": "5G\u002DPHONE\u002DBUY\u002D1\u002DFREE\u002D1",
+				"submitEndpoint": "/content/u-mobile/en/personal/deals/5g-phone-buy-1-free-1/jcr:content/root/layout_container/layout_container/layout_container_2031015453/layout_container_854/form_container_copy_.submit",
+				"reCaptchaSiteKey": "6LeMFacbAAAAAEfU7KZwkk0q90WIljTbk90Rr_Fj"
+			}
+*
+Indicates a required field
+Preferred Model
+{
+				"dataList": [{"label":"Samsung Galaxy S25 Ultra 5G 256GB","value":"samsung-galaxy-s25-ultra-5g-256gb"},{"label":"OPPO Find X8 Pro 5G 512GB","value":"oppo-find-x8-pro-5g-512gb"},{"label":"realme GT7 Pro 5G 512GB","value":"realme-gt7-pro-5g-512gb"}],
+				"value": ""
+			}
+Contact Details
+{
+				"internalValue": "",
+				"isDisabled": false,
+				"rules": {
+					"required": true,
+					"min": 0,
+					"max": 999,
+					"regex": " "
+				},
+				"regexProp": " "
+			}
+Name
+*
+This is a mandatory field.
+{
+				"internalValue": "",
+				"isDisabled": false,
+				"rules": {
+					"required": true,
+					"min": 0,
+					"max": 999,
+					"regex": " "
+				},
+				"regexProp": " "
+			}
+Email
+*
+This is a mandatory field.
+{
+				"internalValue": "",
+				"isDisabled": false,
+				"rules": {
+					"required": true,
+					"min": 0,
+					"max": 999,
+					"regex": "^(([0\u002D9]{2})(0[1\u002D9]|1[0\u002D2])(0[1\u002D9]|[12][0\u002D9]|3[01]))\\\u002D[0\u002D9]{2}\\\u002D[0\u002D9]{4}$"
+				},
+				"regexProp": "^(([0\u002D9]{2})(0[1\u002D9]|1[0\u002D2])(0[1\u002D9]|[12][0\u002D9]|3[01]))\\\u002D[0\u002D9]{2}\\\u002D[0\u002D9]{4}$"
+			}
+NRIC
+*
+Please enter your NRIC number
+Please enter correct format (xxxxxx-xx-xxxx)
+{
+				"internalValue": "",
+				"isDisabled": false,
+				"rules": {
+					"required": true,
+					"min": 0,
+					"max": 999,
+					"regex": " "
+				},
+				"regexProp": " "
+			}
+Phone Number
+*
+{ 
+				"dataList": [{"label":"Yes","value":"yes"},{"label":"No","value":"no"}],
+				"defaultValue": "",
+				"isDisabled": false
+			}
+Are you an existing U Mobile subscriber?​
+{
+				"dataList": [{"label":"I certify that the information provided by me is true and correct. I hereby agree to the collection and use of my personal information/data as written in \u003ca href\u003d\"/content/u-mobile/en/personal/support/terms-conditions/others/privacy-notice.html\" target\u003d\"_blank\"\u003e\u003cu\u003eU Mobile\u0027s privacy policy\u003c/u\u003e\u003c/a\u003e.","value":"consent"}],
+				"defaultValue": "",
+				"isDisabled": false
+			}
+This is a mandatory field.
+Submit
+Please Try Out
+This site is protected by reCAPTCHA and the Google
+Privacy Policy
+and
+Terms of Service
+apply.
+Thank you for reaching out to U Mobile!
+We have received your enquiry and a Customer Service Executive will be in touch with you through email.
+Back To Home
+Oops sorry! Please try again.
 Frequently Asked Questions
 {
-				"searchResultPagePath": "/content/u-mobile/en/personal/faq-search-results",
-				"serviceUrlSearchSuggestion": "/content/u-mobile/en/personal/support/faqs/jcr:content/iparsys-1/layout_container/layout_container/search_textbox.suggestions"
+				"componentId": "ZL39AVA"
 			}
-Suggested Searches
-Browse Categories
-General Enquiries
-Mobile Plans
-Broadband
-Digital Services
-Online Store
-Devices
-Happenings
-Others
-Popular Questions
+Buy 1 Free 1 5G Phone​
 {
 				"dropdownFaqProperties": [
   {
@@ -298,23 +484,11 @@ Popular Questions
     "childList": []
   }
 ],
-				"dropdownDefault": "/content/u-mobile/en/personal/support/faqs.html",
+				"dropdownDefault": "/content/u-mobile/en/personal/deals/5g-phone-buy-1-free-1.html",
 				"breadCrumbs": []
 			}
-Expand All
-Collapse All
-More Ways to Reach Out
-Whether it’s through the MyUMobile App or social media, getting in touch is quick and easy.
-MyUMobile App
-Enjoy a better, faster and safer experience today!
-Download App
-Download App
-Facebook
-Drop us your message on Messenger.
-Chat Now
-Instagram
-Have questions? Feel free to DM us!
-DM Now
+More FAQs
+View T&C
 {
 					"siteTheme": "theme-personal"
 				}

@@ -1,0 +1,114 @@
+[
+  {
+    "state": "Selangor",
+    "city": "Puchong",
+    "coverage_4g": true,
+    "coverage_5g": true,
+    "last_updated": "2025-05-21"
+  },
+  {
+    "state": "Kuala Lumpur",
+    "city": "Setapak",
+    "coverage_4g": true,
+    "coverage_5g": true,
+    "last_updated": "2025-05-21"
+  },
+  {
+    "state": "Putrajaya",
+    "city": "Presint 1",
+    "coverage_4g": true,
+    "coverage_5g": true,
+    "last_updated": "2025-05-21"
+  },
+  {
+    "state": "Johor",
+    "city": "Johor Bahru",
+    "coverage_4g": true,
+    "coverage_5g": true,
+    "last_updated": "2025-05-21"
+  },
+  {
+    "state": "Kedah",
+    "city": "Alor Setar",
+    "coverage_4g": true,
+    "coverage_5g": false,
+    "last_updated": "2025-05-21"
+  },
+  {
+    "state": "Kelantan",
+    "city": "Kota Bharu",
+    "coverage_4g": true,
+    "coverage_5g": false,
+    "last_updated": "2025-05-21"
+  },
+  {
+    "state": "Melaka",
+    "city": "Melaka Tengah",
+    "coverage_4g": true,
+    "coverage_5g": true,
+    "last_updated": "2025-05-21"
+  },
+  {
+    "state": "Negeri Sembilan",
+    "city": "Seremban",
+    "coverage_4g": true,
+    "coverage_5g": true,
+    "last_updated": "2025-05-21"
+  },
+  {
+    "state": "Pahang",
+    "city": "Kuantan",
+    "coverage_4g": true,
+    "coverage_5g": false,
+    "last_updated": "2025-05-21"
+  },
+  {
+    "state": "Penang",
+    "city": "George Town",
+    "coverage_4g": true,
+    "coverage_5g": true,
+    "last_updated": "2025-05-21"
+  },
+  {
+    "state": "Perak",
+    "city": "Ipoh",
+    "coverage_4g": true,
+    "coverage_5g": true,
+    "last_updated": "2025-05-21"
+  },
+  {
+    "state": "Perlis",
+    "city": "Kangar",
+    "coverage_4g": true,
+    "coverage_5g": false,
+    "last_updated": "2025-05-21"
+  },
+  {
+    "state": "Sabah",
+    "city": "Kota Kinabalu",
+    "coverage_4g": true,
+    "coverage_5g": true,
+    "last_updated": "2025-05-21"
+  },
+  {
+    "state": "Sarawak",
+    "city": "Kuching",
+    "coverage_4g": true,
+    "coverage_5g": true,
+    "last_updated": "2025-05-21"
+  },
+  {
+    "state": "Terengganu",
+    "city": "Kuala Terengganu",
+    "coverage_4g": true,
+    "coverage_5g": false,
+    "last_updated": "2025-05-21"
+  },
+  {
+    "state": "Labuan",
+    "city": "Labuan",
+    "coverage_4g": true,
+    "coverage_5g": false,
+    "last_updated": "2025-05-21"
+  }
+]

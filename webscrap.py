@@ -4,9 +4,7 @@ import os
 
 # 💡 Preset telco URLs
 telco_urls = {
-    "U Mobile - Prepaid Plans": "https://www.u.com.my/en/personal/mobile-plans/prepaid/data-plans",
-    "U Mobile - Postpaid Plans": "https://www.u.com.my/en/personal/mobile-plans/postpaid/postpaid-plans",
-    "U Mobile - FAQ": "https://www.u.com.my/en/personal/support/faqs"
+    "U Mobile - TradeIn": "https://www.u.com.my/en/personal/devices/trade-in",
 }
 
 def scrape_page_to_file(url, output_filename="output.txt", output_folder="scraped_results"):

@@ -1,0 +1,116 @@
+[
+  {
+    "shop_name": "U Mobile Store - Berjaya Times Square",
+    "location": "Lot 06-76, Level 6, Berjaya Times Square, No.1, Jalan Imbi, 55100 Kuala Lumpur, Malaysia",
+    "gps": "3.1422, 101.7100",
+    "operation_hours": "10:00 AM \u2013 10:00 PM (Daily)"
+  },
+  {
+    "shop_name": "U Mobile Store - Mid Valley Megamall",
+    "location": "Lot LG-039, Lower Ground Floor, Mid Valley City, Lingkaran Syed Putra, 59200 Kuala Lumpur, Malaysia",
+    "gps": "3.1175, 101.6771",
+    "operation_hours": "10:00 AM \u2013 10:00 PM (Daily)"
+  },
+  {
+    "shop_name": "U Mobile Store - Queensbay Mall, Penang",
+    "location": "Lot 2F-31, 2nd Floor, Queensbay Mall, 100 Persiaran Bayan Indah, 11900 Bayan Lepas, Penang",
+    "gps": "5.3363, 100.3070",
+    "operation_hours": "10:30 AM \u2013 10:30 PM (Daily)"
+  },
+  {
+    "shop_name": "U Mobile Store - Imago Shopping Mall, Sabah",
+    "location": "Lot G-21, Ground Floor, Imago Shopping Mall, KK Times Square, Off Coastal Highway, 88100 Kota Kinabalu, Sabah",
+    "gps": "5.9673, 116.0702",
+    "operation_hours": "10:00 AM \u2013 10:00 PM (Daily)"
+  },
+  {
+    "shop_name": "U Mobile Store - Pavilion KL",
+    "location": "Lot 1.12.00, Level 1, Pavilion Kuala Lumpur, 168, Jalan Bukit Bintang, 55100 Kuala Lumpur",
+    "gps": "3.1489, 101.7134",
+    "operation_hours": "10:00 AM \u2013 10:00 PM (Daily)"
+  },
+  {
+    "shop_name": "U Mobile Store - Sunway Pyramid",
+    "location": "Lot F1.58, First Floor, Sunway Pyramid, No. 3, Jalan PJS 11/15, Bandar Sunway, 47500 Subang Jaya, Selangor",
+    "gps": "3.0721, 101.6073",
+    "operation_hours": "10:00 AM \u2013 10:00 PM (Daily)"
+  },
+  {
+    "shop_name": "U Mobile Store - IOI City Mall",
+    "location": "Lot LG-66, Lower Ground Floor, IOI City Mall, Lebuh IRC, IOI Resort City, 62502 Putrajaya",
+    "gps": "2.9682, 101.7139",
+    "operation_hours": "10:00 AM \u2013 10:00 PM (Daily)"
+  },
+  {
+    "shop_name": "U Mobile Store - Gurney Plaza, Penang",
+    "location": "Lot 170-02-58, 2nd Floor, Gurney Plaza, Persiaran Gurney, 10250 George Town, Penang",
+    "gps": "5.4366, 100.3091",
+    "operation_hours": "10:00 AM \u2013 10:00 PM (Daily)"
+  },
+  {
+    "shop_name": "U Mobile Store - Aman Central, Alor Setar",
+    "location": "Lot 1-36, First Floor, Aman Central, No.1, Lebuhraya Darul Aman, 05100 Alor Setar, Kedah",
+    "gps": "6.1238, 100.3686",
+    "operation_hours": "10:00 AM \u2013 10:00 PM (Daily)"
+  },
+  {
+    "shop_name": "U Mobile Store - AEON Tebrau City, Johor Bahru",
+    "location": "Lot G-17, Ground Floor, AEON Tebrau City, 1, Jalan Desa Tebrau, Taman Desa Tebrau, 81100 Johor Bahru, Johor",
+    "gps": "1.5380, 103.7858",
+    "operation_hours": "10:00 AM \u2013 10:00 PM (Daily)"
+  },
+  {
+    "shop_name": "U Mobile Store - KSL City Mall, Johor Bahru",
+    "location": "Lot LG-08, Lower Ground Floor, KSL City, 33, Jalan Seladang, Taman Abad, 80250 Johor Bahru",
+    "gps": "1.4889, 103.7635",
+    "operation_hours": "10:00 AM \u2013 10:00 PM (Daily)"
+  },
+  {
+    "shop_name": "U Mobile Store - AEON Mall Shah Alam",
+    "location": "Lot G29, Ground Floor, AEON Mall Shah Alam, Jalan Akuatik 13/64, Seksyen 13, 40100 Shah Alam, Selangor",
+    "gps": "3.0632, 101.5035",
+    "operation_hours": "10:00 AM \u2013 10:00 PM (Daily)"
+  },
+  {
+    "shop_name": "U Mobile Store - Dataran Pahlawan Melaka Megamall",
+    "location": "Lot G22, Ground Floor, Dataran Pahlawan Megamall, Jalan Merdeka, 75000 Melaka",
+    "gps": "2.1912, 102.2514",
+    "operation_hours": "10:00 AM \u2013 10:00 PM (Daily)"
+  },
+  {
+    "shop_name": "U Mobile Store - AEON Mall Kota Bharu",
+    "location": "Lot G13, Ground Floor, AEON Mall Kota Bharu, Bandar Baru Tunjong, 15150 Kota Bharu, Kelantan",
+    "gps": "6.1180, 102.2784",
+    "operation_hours": "10:00 AM \u2013 10:00 PM (Daily)"
+  },
+  {
+    "shop_name": "U Mobile Store - Kuantan City Mall",
+    "location": "Lot G-18, Ground Floor, Kuantan City Mall, Jalan Putra Square 6, Putra Square, 25200 Kuantan, Pahang",
+    "gps": "3.8223, 103.3267",
+    "operation_hours": "10:00 AM \u2013 10:00 PM (Daily)"
+  },
+  {
+    "shop_name": "U Mobile Store - AEON Mall Seremban 2",
+    "location": "Lot G09, Ground Floor, AEON Seremban 2, 112, Persiaran S2 B1, Seremban 2, 70300 Seremban, Negeri Sembilan",
+    "gps": "2.7089, 101.9111",
+    "operation_hours": "10:00 AM \u2013 10:00 PM (Daily)"
+  },
+  {
+    "shop_name": "U Mobile Store - The Spring, Kuching",
+    "location": "Lot G21, Ground Floor, The Spring Shopping Mall, Jalan Simpang Tiga, 93300 Kuching, Sarawak",
+    "gps": "1.5154, 110.3580",
+    "operation_hours": "10:00 AM \u2013 10:00 PM (Daily)"
+  },
+  {
+    "shop_name": "U Mobile Store - Suria Sabah, Kota Kinabalu",
+    "location": "Lot G46, Ground Floor, Suria Sabah Shopping Mall, 1, Tun Fuad Stephens Road, 88000 Kota Kinabalu, Sabah",
+    "gps": "5.9886, 116.0753",
+    "operation_hours": "10:00 AM \u2013 10:00 PM (Daily)"
+  },
+  {
+    "shop_name": "U Mobile Store - AEON Mall Ipoh Station 18",
+    "location": "Lot G06, Ground Floor, AEON Mall Station 18, 2, Susuran Stesen 18, Station 18, 31650 Ipoh, Perak",
+    "gps": "4.5382, 101.0826",
+    "operation_hours": "10:00 AM \u2013 10:00 PM (Daily)"
+  }
+]

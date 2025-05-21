@@ -1,0 +1,78 @@
+Unbeatable Deals U Can’t Miss | U Mobile
+{
+				"layout": "fixed-width-carousel",
+				"autoRotationDuration": 0,
+				"useNumberPagination": false
+			}
+{
+					"bannerTitle": "Deals MyUMobile Rewards Banner U Mobile",
+					"bannerType": "normal"
+				}
+Unbeatable Deals
+Discover the best promos and offers,
+exclusive for U Mobile Users.
+{
+				"componentId": "a4WbEeLA"
+			}
+App Exclusive
+Prepaid
+Devices
+Others
+Free Data for First Time App Users
+We have something exclusively for first-time MyUMobile App users! Redeem 100GB of free, uncapped 5G/4G ultra-fast internet data for a month. Learn more now.
+Learn More
+MyUMobile Rewards
+Enjoy rewards from your favourite brands, specially for U Mobile users. Check out all available rewards, deals, and promotions here or on the MyUMobile App.
+Learn More
+Prepaid Personalised Offers
+Enjoy in-app promos & offers made just for U Mobile Prepaid users. Get more value and rewards with Malaysia's best 5G Prepaid plans.
+Learn More
+Prepaid Personalised Offers
+Enjoy in-app promos & offers made just for U Mobile Prepaid users. Get more value and rewards with Malaysia's best 5G Prepaid plans.
+Learn More
+Win Vouchers for a Home Makeover & Cashback
+Subscribe to our Prepaid plans for a chance to win vouchers for your dream home makeover & 100% Prepaid cashback. Join now!
+Learn More
+Bank Islam Reload Exclusive
+Ready to win? Top up and subscribe via Bank Islam for your chance to take home prizes worth up to RM23,400!
+Learn More
+Purchase Prepaid Plan Campaign
+Subscribe to our Prepaid plans of RM35 & above for a chance to win up to RM100 in Cashback! Purchase through our online partners to enter. Join us now!
+Learn More
+Hong Leong Bank Exclusive Campaign
+Reload & Subscribe to our Prepaid Plan via Hong Leong Connect to earn points & win Gaming laptop.
+Learn More
+Pakej Rahmah Siswa
+U Mobile's Pakej Rahmah is here with affordable internet access at just RM30 for 180 days! Get 30GB of uncapped 5G/4G data that can be shared via hotspot now!
+Learn More
+Prepaid Promo
+Keep up with the latest steals and deals exclusive to U Mobile customers. Don't miss out on the latest updates and ongoing promotions. Find out more.
+Learn More
+Buy 1 Free 1 5G Phone
+Double the joy this Raya with U Mobile’s Buy 1 Free 1 device bundles. Get more, share more & stay connected with U Family Plan! Register interest now.
+Learn More
+Samsung 4K TV
+Enhance your home entertainment with a new Samsung 4K TV, included in our U Mobile U Home 5G device bundle! Plus, enjoy a complimentary Wi-Fi 6 5G Router.
+Learn More
+RM0 iPhone Promo
+Own an iPhone 16e, 15 pro, 15 or 13 & pay RM0 for the first 6 months. Get free global roaming & 1,000GB of high-speed 5G data on your new phone, only with U Mobile.
+Learn More
+Latest 5G Devices
+Enjoy unbeatable savings & flexibility with U PayLater when you purchase the latest 5G phones along with U Mobile's U Postpaid plans. Get to know more now.
+Learn More
+Unbeatable 5G Devices
+Browse our amazing selection of FREE Unbeatable 5G devices with 1,000GB of high-speed 5G data for all your mobile activities. Click here for more!
+Learn More
+Travel with U
+Unlock the best travel deals with free global roaming and unlimited data roaming when you travel with U Mobile! Find out more about it here.​
+Learn More
+International Airtime Transfer Ramadhan & Raya
+Share the love (and your U Mobile credit balance) with friends and family overseas. Get to know more about U Mobile's International Airtime Transfer today!
+Learn More
+{
+					"siteTheme": "theme-personal"
+				}
+We use cookies to bring you the best experience on our site by tailoring the most relevant content for you. Click ‘Proceed’ to enjoy optimal performance. View our
+Privacy Notice
+to learn more.
+Proceed
